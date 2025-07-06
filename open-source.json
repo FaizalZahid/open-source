@@ -1,0 +1,127 @@
+{
+  "title": "Audiobook",
+  "items": [
+    { "name": "LibriVox", "url": "https://librivox.org/", "desc": "Free public domain audiobooks" }
+  ]
+},
+{
+  "title": "Computer Science",
+  "items": [
+    { "name": "The Missing Semester of Your CS Education", "url": "https://missing.csail.mit.edu/", "desc": "Fills gaps in practical computer science education" },
+    { "name": "The book of secret knowledge", "url": "https://github.com/trimstray/the-book-of-secret-knowledge", "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools & more" },
+    { "name": "paper-reading", "url": "https://github.com/mli/paper-reading", "desc": "深度学习论文精读 (Deep Learning Paper Reading)" },
+    { "name": "The Odin Project", "url": "https://www.theodinproject.com/", "desc": "Empowers aspiring web developers to learn for free" },
+    { "name": "TryHackMe", "url": "https://tryhackme.com/", "desc": "Teaches cybersecurity through labs & real-world scenarios" },
+    { "name": "Deep Learning Book", "url": "https://www.deeplearningbook.org/", "desc": "From the book Deep Learning by Ian Goodfellow" },
+    { "name": "A Byte of Python", "url": "https://python.swaroopch.com/", "desc": "Free Python programming book" },
+    { "name": "OSINT Framework", "url": "https://osintframework.com", "desc": "Resources/tools for OSINT, helping users gather publicly available data for research, investigations & cybersecurity" },
+    { "name": "LLM University", "url": "https://docs.cohere.com/docs/llmu-2", "desc": "Learn about Large Language Models (LLM)" },
+    { "name": "PyTorch for Deep Learning", "url": "https://www.learnpytorch.io/", "desc": "Learn important machine learning concepts hands-on by writing PyTorch code" },
+    { "name": "Free OpenCV Course", "url": "https://opencv.org/university/free-opencv-course/", "desc": "Official Certification by OpenCV" },
+    { "name": "Free Programming Books", "url": "https://books.goalkicker.com", "desc": "Programming Notes for Professionals books" },
+    { "name": "FreeCodeCamp", "url": "https://www.freecodecamp.org/", "desc": "Offers coding tutorials & courses for beginners to learn web development, programming & data science" },
+    { "name": "Sololearn", "url": "https://www.sololearn.com/", "desc": "Learning to code got simplified. Learn the latest technology with interactive, hands-on courses" },
+    { "name": "Mimo", "url": "https://www.mimo.org/", "desc": "Learn to code. Build a portfolio. Get hired" }
+  ]
+},
+{
+  "title": "Courses",
+  "items": [
+    { "name": "University Of The People", "url": "https://www.uopeople.edu", "desc": "Earn a high-quality, tuition-free degree —100% online." },
+    { "name": "MIT OpenCourseWare", "url": "https://ocw.mit.edu/", "desc": "Free course materials from MIT" },
+    { "name": "Wikibooks", "url": "https://www.wikibooks.org/", "desc": "Free open textbooks" },
+    { "name": "OpenStax", "url": "https://openstax.org/", "desc": "Free, peer-reviewed, openly licensed textbooks" },
+    { "name": "Wikiversity", "url": "https://www.wikiversity.org/", "desc": "Open learning resources and research" },
+    { "name": "Khan Academy", "url": "https://www.khanacademy.org/", "desc": "For every student, every classroom. Real results" },
+    { "name": "OER Commons", "url": "https://oercommons.org/", "desc": "Public digital library of open educational resources" },
+    { "name": "edX", "url": "https://www.edx.org/", "desc": "Free and paid online courses" },
+    { "name": "Open Yale Courses", "url": "https://oyc.yale.edu/", "desc": "Free online courses on various subjects" },
+    { "name": "Coursera", "url": "https://www.coursera.org/", "desc": "Online courses from top universities and companies" },
+    { "name": "Merlot", "url": "https://www.merlot.org/", "desc": "Peer-reviewed online teaching and learning materials" },
+    { "name": "OpenLearn", "url": "https://www.open.edu/openlearn/", "desc": "Free online courses and resources from The Open University" },
+    { "name": "LibreTexts", "url": "https://libretexts.org/", "desc": "Free, peer-reviewed textbooks and other educational resources" },
+    { "name": "PhET Interactive Simulations", "url": "https://phet.colorado.edu/", "desc": "Free interactive science & math simulations for teaching & learning" },
+    { "name": "Пройти.Ру", "url": "https://proity.ru", "desc": "Только Бесплатные Онлайн-Курсы" }
+  ]
+},
+{
+  "title": "Forum",
+  "items": [
+    { "name": "Stack Exchange Network", "url": "https://stackexchange.com/", "desc": "A Q&A website on topics like programming, maths, cooking, language, etc." }
+  ]
+},
+{
+  "title": "General Knowledge",
+  "items": [
+    { "name": "Internet Archive", "url": "https://archive.org/", "desc": "Digital library of free books, music, & more" },
+    { "name": "Learn Anything", "url": "https://learn-anything.xyz/", "desc": "Discover and learn about any topic with Learn-Anything" },
+    { "name": "Open Library", "url": "https://openlibrary.org/", "desc": "Free online books" },
+    { "name": "HathiTrust", "url": "https://www.hathitrust.org/", "desc": "Digital library partnership for academic content" },
+    { "name": "Library Genesis (LibGen)", "url": "https://libgen.is/", "desc": "A resource offering free access to books and articles (legally controversial)" },
+    { "name": "LibGen Alternative 1", "url": "https://libgen.rs/", "desc": "Alternative link" },
+    { "name": "LibGen Alternative 2", "url": "https://libgen.st/", "desc": "Alternative link" },
+    { "name": "LibGen Alternative 3", "url": "http://genotypeincz5dots.onion/", "desc": "Tor alternative link" },
+    { "name": "Z-Library", "url": "https://z-library.sk/", "desc": "Digital library with a vast collection of books, including academic texts, research papers, and general literature (legally controversial)"},
+    { "name": "Z-Library Alternative 1", "url": "https://go-to-library.sk", "desc": "Alternative link"},
+    { "name": "Z-Library Alternative 2", "url": "http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion", "desc": "Tor alternative link"},
+    { "name": "Z-Library Alternative 3", "url": "http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion", "desc": "Tor alternative link 2"},
+    { "name": "Z-Library Alternative 4", "url": "http://zlib24th6ptyb4ibzn3tj2cndqafs6rhm4ed4gruxztaaco35lka.b32.i2p", "desc": "I2P alternative link"},
+    { "name": "Anna's Archive", "url": "https://annas-archive.org/", "desc": "A search engine for shadow libraries, aggregating content from sources like Library Genesis, Z-Library, and Sci-Hub (legally controversial)"},
+    { "name": "Anna's Archive Alternative 1", "url": "https://annas-archive.se", "desc": "Alternative link"},
+    { "name": "Anna's Archive Alternative 2", "url": "https://annas-archive.li", "desc": "Alternative link"},
+    { "name": "Tor Onion Education Directory", "url": "http://toronioneducationdirectoryonion.onion/", "desc": "A resource linking to educational materials and research papers" },
+    { "name": "The Imperial Library", "url": "http://imperiallibraryoftrantor.onion/", "desc": "Offers a wide range of free books on various subjects" },
+    { "name": "Europeana", "url": "https://www.europeana.eu/", "desc": "Search, save and share art, books, films, and music from cultural institutions" },
+    { "name": "Open Culture", "url": "https://openculture.com/", "desc": "Free cultural and educational media" },
+    { "name": "OSGeo", "url": "https://www.osgeo.org/", "desc": "The Open Source Geospatial Foundation" },
+    { "name": "OpenStreetMap", "url": "https://www.openstreetmap.org/", "desc": "A collaborative project creating a free, editable world map" },
+    { "name": "OpenSeaMap", "url": "https://www.openseamap.org/", "desc": "Provides free nautical charts and a worldwide database for sailors" },
+    { "name": "Open Food Facts", "url": "https://world.openfoodfacts.org/", "desc": "Open database of food products with detailed information" },
+    { "name": "Open Source Ecology", "url": "https://opensourceecology.org/", "desc": "Industrial machines, farming equipment, and sustainable living technologies" },
+    { "name": "Open Source Pharma", "url": "https://www.opensourcepharma.org/", "desc": "Platform for open-source drug discovery" },
+    { "name": "PubChem", "url": "https://pubchem.ncbi.nlm.nih.gov/", "desc": "Open-access database of chemical compounds" },
+    { "name": "ClinicalTrials.gov", "url": "https://clinicaltrials.gov/", "desc": "Open-access database of clinical trials" },
+    { "name": "SOCR", "url": "https://socr.umich.edu/", "desc": "Interactive online resources for statistics education" },
+    { "name": "GeoGebra", "url": "https://www.geogebra.org/", "desc": "Interactive mathematics software and resources" },
+    { "name": "Google Dataset Search", "url": "https://datasetsearch.research.google.com/", "desc": "A search engine for finding datasets across the web" }
+  ]
+},
+{
+  "title": "Journal & Research",
+  "items": [
+    { "name": "arXiv", "url": "https://arxiv.org/", "desc": "Open access to scientific papers" },
+    { "name": "DOAJ", "url": "https://doaj.org/", "desc": "Directory of Open Access Journals" },
+    { "name": "CORE", "url": "https://core.ac.uk/", "desc": "Aggregator for open research papers" },
+    { "name": "BioRxiv", "url": "https://www.biorxiv.org/", "desc": "Preprints for biology research" },
+    { "name": "ScienceOpen", "url": "https://www.scienceopen.com/", "desc": "Research papers and networking platform" },
+    { "name": "PubMed Central", "url": "https://www.ncbi.nlm.nih.gov/pmc/", "desc": "Free access to biomedical literature" },
+    { "name": "Sci-Hub", "url": "https://www.sci-hub.st", "desc": "Provides access to academic papers and research articles (legally controversial)" },
+    { "name": "Sci-Hub Alternative 1", "url": "https://www.sci-hub.se", "desc": "Alternative link" },
+    { "name": "Sci-Hub Alternative 2", "url": "https://www.sci-hub.ru", "desc": "Alternative link" },
+    { "name": "Sci-Hub Alternative 3", "url": "http://sci-hubtw.onion/", "desc": "Tor alternative link" },
+    { "name": "ScienceDirect", "url": "https://www.sciencedirect.com/", "desc": "Search for peer-reviewed journal articles and book chapters" },
+    { "name": "PLOS ONE", "url": "https://journals.plos.org/plosone/", "desc": "Inclusive journal community advancing science for societal benefit" },
+    { "name": "figshare", "url": "https://figshare.com/", "desc": "Open-access repository of research data and papers" },
+    { "name": "Zenodo", "url": "https://zenodo.org/", "desc": "Open-access repository of research data and papers" },
+    { "name": "SSOAR", "url": "https://www.ssoar.info/", "desc": "Open-access repository of social science research and publications" },
+    { "name": "Zotero", "url": "https://zotero.org/", "desc": "Free tool to help collect, organize, and share research sources" },
+    { "name": "Open Access Button", "url": "https://openaccessbutton.org/", "desc": "A tool to help users find free, legal research articles" }
+  ]
+},
+{
+  "title": "Languages",
+  "items": [
+    { "name": "Duolingo", "url": "https://www.duolingo.com/", "desc": "Learn languages interactively" },
+    { "name": "BaBaDum", "url": "https://www.babadum.com/", "desc": "Learn words in 21 languages through games" },
+    { "name": "LEARN GERMAN | DW", "url": "https://learngerman.dw.com/", "desc": "Free resources for learning German" },
+    { "name": "Tatoeba", "url": "https://tatoeba.org/", "desc": "Collection of sentences & translations" },
+    { "name": "Jisho", "url": "https://jisho.org/", "desc": "Japanese-English dictionary offering kanji search & learning resources" }
+  ]
+},
+{
+  "title": "Literature",
+  "items": [
+    { "name": "Project Gutenberg", "url": "https://www.gutenberg.org/", "desc": "Free classic literature" },
+    { "name": "Perseus Digital Library", "url": "https://www.perseus.tufts.edu/", "desc": "Digital library of classical texts and translations" }
+  ]
+}
