@@ -4,9 +4,10 @@
 As per embracing the spirit of the House of Wisdom, we curate IPTV channels only focused on education, culture, languages, etc.
 
 ## Note:
-1. Only channels with [YouTube](https://support.google.com/youtube/answer/171780?hl=en) links are accessible here. Other resources are kept hidden.
-2. Treat this as a channel guide for [House of Hikmah IPTV](https://houseofhikmah.org/IPTV)
-3. Learn \<language\> with \<language\>pod101.com channels have stopped streaming. They are kept as placeholders for now. Stay tuned for the future updates.
+1. Only channels with [YouTube](https://support.google.com/youtube/answer/171780?hl=en) links are accessible here. Other resources are kept hidden but you can find them (Refer to point 2).
+2. The most useful IPTV collections that you can refer to is a list by [iptv-org](https://github.com/FaizalZahid/iptv) (repository). Website: [iptv-org](https://iptv-org.github.io)
+3. Treat this as a channel guide for [House of Hikmah IPTV](https://houseofhikmah.org/IPTV)
+4. Learn \<language\> with \<language\>pod101.com channels have stopped streaming. They are kept as placeholders for now. Stay tuned for the future updates.
 
 | Logo | Title | Category |
 |------|-------|----------|
