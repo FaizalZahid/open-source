@@ -91,7 +91,7 @@ As per embracing the spirit of the House of Wisdom, we curate IPTV channels only
 | <img src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/60e3d0eb291c1c86f567c06f75642620.webp" alt="Logo" width="32" height="32"> | FreeTV Crime | Law/Crime |
 | <img src="https://yt3.ggpht.com/lAJuMTkcBrgIX1-rVz6esXYKxLWBzdfzLi1LPkNp-5c-ShOTwD9mBZ9YyicHx3iGE_jhUU0P=s48-c-k-c0x00ffffff-no-rj" alt="Logo" width="32" height="32"> | [Gabby's Dollhouse](https://www.youtube.com/watch?v=GPaXYrM1S44) | Kids |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" alt="Logo" width="32" height="32"> | [Geo News](https://www.youtube.com/watch?v=daqB3i9WYIY) | News |
-| <img src="https://yt3.ggpht.com/47nfiGlAIDFZmzJS5fqg0G1LNfc6M7IZyrx4ZxpntN7GyLsidL-DtXxc1CvZraXAuidkx3El=s48-c-k-c0x00ffffff-no-rj" alt="Logo" width="32" height="32"> | [Google Career Certificates](https://www.youtube.com/watch?v=MFG4fJkIpS4) | Computer Science |
+| <img src="https://yt3.ggpht.com/47nfiGlAIDFZmzJS5fqg0G1LNfc6M7IZyrx4ZxpntN7GyLsidL-DtXxc1CvZraXAuidkx3El=s48-c-k-c0x00ffffff-no-rj" alt="Logo" width="32" height="32"> | [Google Career Certificates](https://www.youtube.com/watch?v=ofS5Bd4TXeA) | Computer Science |
 | <img src="https://i.imgur.com/AYzdlMz.png" alt="Logo" width="32" height="32"> | Haddam Killingworth (HKTV) | Local |
 | <img src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-sat-logo.original.png" alt="Logo" width="32" height="32"> | Hellenic TV | Education |
 | <img src="https://i.imgur.com/CBbbrkI.png" alt="Logo" width="32" height="32"> | Hiperconectados TV | Science |
