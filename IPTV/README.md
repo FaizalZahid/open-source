@@ -11,15 +11,15 @@ As per embracing the spirit of the House of Wisdom, we curate IPTV channels only
 
 | Logo | Title | Category |
 |------|-------|----------|
-| <img src="https://i.imgur.com/AwVHXyC.png" alt="Logo" width="32" height="32"> | Palestine Edu | Education |
-| <img src="https://i.imgur.com/UjOxwdd.png" alt="Logo" width="32" height="32"> | Al-Hiwar TV | Education |
+| <img src="https://i.imgur.com/AwVHXyC.png" alt="Logo" width="32" height="32"> | [P](https://www.versobooks.com/en-gb/products/3293-from-the-river-to-the-sea)alestine Edu | Education |
+| <img src="https://i.imgur.com/UjOxwdd.png" alt="Logo" width="32" height="32"> | [A](https://www.versobooks.com/en-gb/products/1221-blaming-the-victims)l-Hiwar TV | Education |
 | <img src="https://ugc.production.linktr.ee/dqzYW4qxQhmGPbMlhq76_wT5jy96NGf2Q0e6K?io=true&size=avatar-v3_0" alt="Logo" width="32" height="32"> | [Live Makkah Today](https://www.youtube.com/watch?v=2Gub8-cSH9c) | Education |
-| <img src="https://i.imgur.com/ppBdqel.png" alt="Logo" width="32" height="32"> | Eduvision | Education |
-| <img src="https://shababfm.ps/wp-content/uploads/2023/01/cropped-Panorama-for-television-press-and-media-Shabab-FM-1.png" alt="Logo" width="32" height="32"> | Shabab FM | Education |
-| <img src="https://www.memphislibrary.org/wp-content/uploads/WYPL-LOGO.png" alt="Logo" width="32" height="32"> | The Library Channel TV18 | Education |
-| <img src="https://ioniantv.gr/wp-content/uploads/2023/04/ionianlive.png" alt="Logo" width="32" height="32"> | Ionian Channel | Education |
-| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaoseQ_JLIIPtZhm-4CVgzRYznyoOzNgqyVQ&s" alt="Logo" width="32" height="32"> | Nablus TV | Education |
-| <img src="https://i.imgur.com/2DYuLaS.png" alt="Logo" width="32" height="32"> | EWTN Africa Asia | Education |
+| <img src="https://i.imgur.com/ppBdqel.png" alt="Logo" width="32" height="32"> | [E](https://www.versobooks.com/en-gb/products/122-palestine-speaks)duvision | Education |
+| <img src="https://shababfm.ps/wp-content/uploads/2023/01/cropped-Panorama-for-television-press-and-media-Shabab-FM-1.png" alt="Logo" width="32" height="32"> | [S](https://www.versobooks.com/en-gb/products/370-ten-myths-about-israel)habab FM | Education |
+| <img src="https://www.memphislibrary.org/wp-content/uploads/WYPL-LOGO.png" alt="Logo" width="32" height="32"> | [T](https://www.versobooks.com/en-gb/products/2239-the-case-for-sanctions-against-israel)he Library Channel TV18 | Education |
+| <img src="https://ioniantv.gr/wp-content/uploads/2023/04/ionianlive.png" alt="Logo" width="32" height="32"> | [I](https://www.versobooks.com/en-gb/products/2684-the-palestine-laboratory)onian Channel | Education |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaoseQ_JLIIPtZhm-4CVgzRYznyoOzNgqyVQ&s" alt="Logo" width="32" height="32"> | [N](https://www.versobooks.com/en-gb/products/2135-the-punishment-of-gaza)ablus TV | Education |
+| <img src="https://i.imgur.com/2DYuLaS.png" alt="Logo" width="32" height="32"> | [E](https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg)WTN Africa Asia | Education |
 | <img src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e1169734642c9bd75b54f8344e6e119e.webp" alt="Logo" width="32" height="32"> | 12 | News |
 | <img src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f8a1b93ed3752e3d583e9e6290dc3521.webp" alt="Logo" width="32" height="32"> | Kan 11 | News |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/512px-KanHinuchit.svg.png" alt="Logo" width="32" height="32"> | Kan Kids | Kids |
