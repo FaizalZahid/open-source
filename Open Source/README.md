@@ -11,6 +11,7 @@
 | Resource | Description |
 |----------|-------------|
 | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | Fills gaps in practical computer science education |
+| [Learn Git Branching](https://learngitbranching.js.org) | The most visual and interactive way to learn Git on the web; you'll be challenged with exciting levels, given step-by-step demonstrations of powerful features, and maybe even have a bit of fun along the way |
 | [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools & more |
 | [paper-reading](https://github.com/mli/paper-reading) | 深度学习论文精读 (Deep Learning Paper Reading) |
 | [The Odin Project](https://www.theodinproject.com/) | Empowers aspiring web developers to learn for free |
