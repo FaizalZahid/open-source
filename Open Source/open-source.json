@@ -9,6 +9,7 @@
     "title": "Computer Science",
     "items": [
       { "name": "The Missing Semester of Your CS Education", "url": "https://missing.csail.mit.edu/", "desc": "Fills gaps in practical computer science education" },
+      { "name": "Learn Git Branching", "url": "https://learngitbranching.js.org", "desc": "The most visual and interactive way to learn Git on the web; you'll be challenged with exciting levels, given step-by-step demonstrations of powerful features, and maybe even have a bit of fun along the way." }
       { "name": "The book of secret knowledge", "url": "https://github.com/trimstray/the-book-of-secret-knowledge", "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools & more" },
       { "name": "paper-reading", "url": "https://github.com/mli/paper-reading", "desc": "深度学习论文精读 (Deep Learning Paper Reading)" },
       { "name": "The Odin Project", "url": "https://www.theodinproject.com/", "desc": "Empowers aspiring web developers to learn for free" },
