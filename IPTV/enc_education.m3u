@@ -1,30 +1,32 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="PalestineEdu.ps" tvg-logo="https://i.imgur.com/AwVHXyC.png" group-title="Education",Palestine Edu
-uZrkn/N/OgXh74SqSTyQPmIuRD+Huredtp1/MXl1pc4W/PPrLtEcq70oqvzNtLzqeLt5aQ8QqJUh85F3zkC0sQ==
+aHnmf23szwqnyoK47mJiT661upTQ2IH9vJYgK09Md7x/FQZBqFqrP5MGCOTGq+yznBeN4IiMD2mi71oAXiJHMg==
 ##EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-logo="https://live.alwafatarim.tv/assets/images/logo.png" group-title="Education",Al-Wafa Tarim TV (Am Media)
 #https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://yt3.ggpht.com/MYvU0JeO-SnJipMuE4sfsJta2Ku9WwoCU7N0Fs6dPiQsObxpyn7VeVhqWV1o9folTm_CzV1O=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Education",Animal Planet
 yt-live://UCkEBDbzLyH-LbB2FgMoSMaQ
 #EXTINF:-1 tvg-id="LiveMakkahToday" tvg-logo="https://ugc.production.linktr.ee/dqzYW4qxQhmGPbMlhq76_wT5jy96NGf2Q0e6K?io=true&size=avatar-v3_0" group-title="Education",Live Makkah Today
 yt-live://UCos52azQNBgW63_9uDJoPDA
-#EXTINF:-1 tvg-id="ExploreBearsBison" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lEW85S8iB-0hGzHsr9I-TyxOVpgji0uXiTL0c3bfN4KvA=s48-c-k-c0x00ffffff-no-rj" group-title="Education",Explore Bears & Bison
-yt-live://UC2Sk0aXLq3ADkH_USGPKT_Q
+##EXTINF:-1 tvg-id="ExploreBearsBison" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lEW85S8iB-0hGzHsr9I-TyxOVpgji0uXiTL0c3bfN4KvA=s48-c-k-c0x00ffffff-no-rj" group-title="Education",Explore Bears & Bison
+#yt-live://UC2Sk0aXLq3ADkH_USGPKT_Q
+#EXTINF:-1 tvg-id="ExploreApeCamSanDiegoZoo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b8e82fa04382dbcc9b13530d0c547b60.webp" group-title="Education",Explore Ape Cam - San Diego Zoo
+ffzzhAjM3knFTsVsiP8dilT2nJ5AMdTj2VHbIm8d+RFY/3QgdOCkthh7DwXA9qMB6+Evc5kfT3icRUfhyy/ZkEbne+7qMewdr0JStEoTxws=
 #EXTINF:-1 tvg-id="ShababFM.ps" tvg-logo="https://shababfm.ps/wp-content/uploads/2023/01/cropped-Panorama-for-television-press-and-media-Shabab-FM-1.png" group-title="Education",Shabab FM
-JQhtN63N+iFHO7MskK7PFjVFmzUB2qEt7VtsV4+Jkx+VLNAZTho8hnj9F9oY/mu9DB/Db2wf3oK9Ac6MZGbqfCA/2p+r2xMqrn9depKIJWDwyJ5aj+vu8HWvn7TzuO2t
+WFkcd7y4/Idvafmg+UJfQ+BUPx1zBiqVhI1BGBhP1HezcrpHGkqQaYaQA3y+q+g7ZIQGHOeV0YGEPKVTJMxtQp90hJg0mE+CHxAAtvp0JUER+xmXFfBsuCEcg6N6GSmw
 #EXTINF:-1 tvg-id="TVBRICSRussian.ru" tvg-logo="https://i.imgur.com/qa4ZDZZ.png" group-title="Education",TV BRICS Russian
-LPlgA/4ofMqGfgiOSXvIKwGw7YKxJ+xNVXQq4yXQ3QHJMWQ9qV4CDILfZBcWMRDH//hmhYlqC2eTs71OULOKY+H5rwYoBCNxSpOWuwd8tegjXjheJvoebi4EO/ZW7KJfOJWOwCJkXQIP1+6pVvfckVVNn5XU89SijmB13g+rKgw=
+8Z+GyR10hq1Cbr7t9alWuyhOr3tSCWRO4qmwfhWsf57Gq1s7T+ocRvX3SN0kVB5s4cZKlUs5IiNH+C06z41gvq1MST3DzNwTgr27HUxOhaydIFiA8PtFipAxmmL2YN+T758yYTK6tUX3yXbYCQd6rv/tx0ajjYoC3jVDEKwLGEQ=
 #EXTINF:-1 tvg-id="IonianTV.gr" tvg-logo="https://ioniantv.gr/wp-content/uploads/2023/04/ionianlive.png" group-title="Education",Ionian Channel
-oUPq4yHNW+cGNOA/XXNpzYQz0MdWJuCgjHsFmLNvMJQe35/lzZQovQ8OytzWZi2cC5pQ+JIsQ8G+NRKDSdzLR4gWH+J5eD/lSqAX0pJac1UYaQp8l+YAboafn4tDqh697qRYbSZNFVKtyr3Wpxqb5K1EVBOCbsZVRmWA5OHKOOY=
+9DnjkVPWEfIZX+xubOe352CU9GP7aHMpeCSxypgKxmBnzg9ds3VVQC8ZzpYGEKA4WVtV3p3d4sGERqiVnwh0o1R36OS/Gr8vd1siqKb6w7n3J7exJTmpv3wmrJ7L/RfV9Z3M84fp91X4heZBIp5Z2Ka2Owi2wpFgnAT1uUMTaIs=
 #EXTINF:-1 tvg-id="NablusTV.ps" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaoseQ_JLIIPtZhm-4CVgzRYznyoOzNgqyVQ&s" group-title="Education",Nablus TV
-3oSLdTVNs+onAKMhoQFz5turOhqKn5V2uExqzhT8JabI2hbdtezGFmHwc9yOFiZhSjk1Ej5AFuhmESEM3nj9Pbirfj46+yu2fSYwBn843G8yPDDP3eH9Ihx/Thcwz4y7pzi7cXkYzJ5gNMaaVz1eX+bx/iJvzMPrUWttaTPxr5o=
+5jGgV/NVOUY6F9L8tJCzeUXDmgpqBdRZOrMKIvrKc7kfkmRfte7QNvbHqG9v1G3C9WrUi5qRccGT5MJ08AGWq7s8gXyaDMn/hgRX/P4Bo60SerHcGS413mYLUILmZDap4u1W0GVJd0uu5uZQrEHA6rZC8XHFWB09H5nqftFlWOA=
 #EXTINF:-1 tvg-id="EWTNAfricaAsia" tvg-logo="https://i.imgur.com/2DYuLaS.png" group-title="Education",EWTN Africa Asia
-mjsR52ZEX42aY9CN0idMs2DCjmEJU+3XZH/0zLPoRjY0uslDbTlCnWWP6PEjK9G/+B/I2fMFuOi1bhlraLcZojRVutTJIFuYab1PjVr6/RN3rGLpLsyKwpUJoy1QhUbR
+3mDRp0P29hFJw19Z8aqeQAHEAUkdUnB+IvqgyNqk/6c4XvcBMvRSUhr1PK/coTwflur7Xj5UhVeBnOiSgUR5s0wZ7FFWPeWCa5v0LuZjT/MNfWHcKi2tP3twlKDJYR3s
 #EXTINF:-1 tvg-id="Kan11" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f8a1b93ed3752e3d583e9e6290dc3521.webp" group-title="News",Kan 11
-guwMmxYH2nc7XlqmOYC0QyLNcX7HFN6ShzX1Tk4gQStkh9LaNe6mLKYMPOSXiLYJcYHxvPr2QwrVTILeS2I5+Fgg2YGdY6A4dtvzvxYk+dfHOnDLaOj7fXiCtPyOiEhfxNez7Of+o/DAk9cITnY7Ww==
+6EBCxmZfMaGpBkZH8d+t444zIwlgJmeo+i2Fjov5g//o265YTlP6SWgsKzJjfzVoNzevgWaY6y9WuA4av2zNRopFDqHTh05YxP/6jLMdz623iwttkm0fKpNYUGhII7LPpYzMRd3bHxj5x4cUlAUDDw==
 #EXTINF:-1 tvg-id="KanEducational.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/KanHinuchit.svg" group-title="Kids",Kan Kids
-lRC5kq/JtwpBJyQf5e5fgIALhG9jaL8Xjek+ueazzvZjgqoRlctSNkAN8/GJNY99oYRwij+HbddNBs60G8f2//TIfHxnW+aqDuN/cgt5RSqj7DHsmdZt88yPY1yHPk7Q
+VnLw1N6LicEKZQbckib35sHXHagK8Z/lnj50y5+tZ7zAfIWVtDb8/j/Yv/q8nh2nUnp2JrpsVW1ypLXJwnAi0R+1OFHPqqk79nhZkRL9TTBFid+azS0Juz0LYgmWEkFX
 #EXTINF:-1 tvg-id="5MinuteCrafts" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f5db8ef7a6c56f366f6835f2b657025e.webp" group-title="Lifestyle + Education",5-Minute Crafts
-PEdSkO+muKH5T/qZmCNQygBCWLeau8MPf/EluxvZdAZAAFd1XWFeWH9drbJ+lsOKj5ZdxgPrv3KSCEGDpLjX90z2m+RhkvNudoLivxFQ9ywK7VdtMV6qLjm42bEOptLAe99WziMKYIhYiloylGWvEgYSGymvGLlE7SlUfXyXSSN2iLLvy6eqbXnwtxDlBbNh
+XfTKgcZbdpRRswB+mgzg5p3aE18L06gwspi0uSOHKmxPts76RtoqVCCXjiw0RANNm/oPs22q77ID7udoem/tsN3OfoZWQS9o0+aFl+qhVFHGnDG20Tp6VDVo4lXWt4oqKjkbq3dIjE0mFW3hlHPHiLto3U4wET53FYjVpME7R8w0up1EnTu+96mYxxlvdIOa
 #EXTINF:-1 tvg-id="ABCLearningEnglish1" tvg-logo="https://yt3.ggpht.com/jZI2OrDR-bml_IzxBow503-AzoUze9cwz3Gd6F5bocEfC1Vq2Um3WdqgjIaRtt-C1s0BJxQG1Ms=s48-c-k-c0x00ffffff-no-rj" group-title="Language",ABC Learning English (Level 1)
 https://www.youtube.com/watch?v=xj5e4jgOpGo
 #EXTINF:-1 tvg-id="ABCLearningEnglish2" tvg-logo="https://yt3.ggpht.com/jZI2OrDR-bml_IzxBow503-AzoUze9cwz3Gd6F5bocEfC1Vq2Um3WdqgjIaRtt-C1s0BJxQG1Ms=s48-c-k-c0x00ffffff-no-rj" group-title="Language",ABC Learning English (Level 2)
@@ -36,117 +38,117 @@ https://www.youtube.com/watch?v=hsnlNL8kJyI
 #EXTINF:-1 tvg-id="ABCNewsAustralia" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2018/09/5bac3ece39d75.png" group-title="News",ABC News Australia
 https://www.youtube.com/watch?v=vOTiJkg1voo
 #EXTINF:-1 tvg-id="ACTV.us" tvg-logo="https://www.accgov.com/ImageRepository/Document?documentID=35163" group-title="Government",ACTV (Georgia)
-YBpL9XSMoToFAGcYW5ot4bafh9V5g+7LzZhNqOtKUaIZhJ91eX/Z/gh8aP8JCeY/O7fyKuA+/EjSYJDQSRqKuoFkM6C1CIJIYrlPXgmm19+7BfJdHgpKbUPmVBdI3LqH
+3HE2QOiyow3q/EyJOr2ZDUUmd3JfQR1kOHl9w2VCa1S4l5q5mlbSxIT30OJwyaecqujP+b0/YH7AjrIUB3ZpBKMbSkE+hZYfvxZGGh5OXhmB0Fm1+ohAZD4m9rg8J/av
 #EXTINF:-1 tvg-id="afarTV" tvg-logo="https://yt3.ggpht.com/TknLAgION9ZySqDS2InUoAmaa3gYt3m1-jWz0VIIqMtwS_IO-t4hM5BLDgBYKBt3R3INm4K3fn0=s48-c-k-c0x00ffffff-no-rj" group-title="Outdoor",afarTV
 https://www.youtube.com/watch?v=C72Ug3aQXNk
 #EXTINF:-1 tvg-id="AfroturkTV.tr" tvg-logo="https://yt3.ggpht.com/WQ-NgVG70c3H17y7zZR9Xl4nwu-hxBBbDFAXmyhr-vORnEP1c24_-klPIPhuwa0TyB3j3d_bbA=s48-c-k-c0x00ffffff-no-rj" group-title="Culture + Local",Afroturk TV
-Lae3EobeOFTcq5gUhD5nm95VkvAplyafM+vBW1/fUJi+D5mAEM9myjMF8U1/1uWcZcZQKaJSe2hGBK7otEz3dvnDvMz0wQgrz9mY1nkPEhE=
+N/QBji3JzktaHwLmnTpAX+4verTm2AqOSeqyRNMu0YloflHpGM7jnmSFRIje8Dc8jo9HbilQLDkna4r//PKPresMTaZ7UpLPrAGCcUfbT1k=
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/83d7b3d3df0b2dff23bf51ad0d028d6b.webp" group-title="News",Al Jazeera English
-OwlLh71L26wsAmCmNPb3sxHmiOKUCpok6Lp/85mqcaVmsifWEl2Z11WOK/WHv2uvYWJYQ4X+brX6ace4VSrjOhoHnIEsnbFNGsnf6C1jvxY=
+3AXY9P5bqUyxCWKl2oBrWcgzBlckIGxOxxYiD1MzK+1NazBNRtdVo688F0wLarzKuCviNqLY7xPh4+AVeQSZ6asyEc8A9IQAvDLFSU++ZFo=
 #EXTINF:-1 tvg-id="AlveusSanctuary" tvg-logo="https://www.alveussanctuary.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.cfded866.png&w=128&q=75" group-title="Animals",Alveus Sanctuary (Donate to them!)
 yt-live://UCbJ-1yM55NHrR1GS9hhPuvg
 #EXTINF:-1 tvg-id="AmericanCrimes" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D10ACB25-D8D4-4445-9D47-30195BD2DE7E/3-1x1.png" group-title="Law/Crime",American Crimes
-7Mpkny9el2uD00EH5TDXaErZ3ifMt5t7ULjgwNfVmaD2AdYSo00+1xR1RrfOZDV6qFBsCmQjND/FyTDK/7KeMUxbGjupBIEcGv005o8FXNh8MuNU2f6vyeNtPF2EDvI+9CdhMpyddHkC6aVXEzM9E5CsLWrKiuMM9GDpeiJ9rBLwcHh5qdgWgy/CJ0WXdEYkhhw1RLnLieLzuEguYQp/Be9cdbRrpCCQlg5oDTXMuwZCi9ZRqn2Jy7YPMfyiWs0ulLgnsTQdE8DVhav/RG6Nh1GYkyuuGr1wZK8nB5lUuIauDNDKQUGaEX26zmQMgvCs4WdRbycrrr2y5jlhAtF+zpuL4jUwjgQXUJk0EgnzbawKU7UXohnWf37lVOXQ2i1HSvlsnWVaMqFqoAj6izo5645yatKLf611tVlN1+BGcN3xED60FG/zkynEO/137K8n0l25jrBpFPg1TIh/6LFR+f+mf8t1LhvEX8qRGPCvZPDKMDaUDsLChSyBtRqyHtXkXVU45wyZYyZMmluUF0CSfWOvlW5CTwGnSpu1x8g1vRdtSmZ3sucb/bsyahxOIINw059Y+KyyxonG5vf47HvmOw==
+LuShDppnET2dQ5pGgbKGR8b85fGwnpdlo4M3jK21ldVGX692a449AVLE7hpfpPw8Ouyi1a8W4zlnlrk7tTngtrq93pjLlvgCw57Q8+KDO56rtea+hlntJnb1b4yG6GPDqPMV4WVtJ/BMgy9aYLXhB/vWSco2ZeFMzr3idVLZdRVpYBzk1sF2tIiNBJHiPC3MTkMQcjI8hGCjq5GtzWBBunoO0H9UpxEHQxw4o3sl0yS0Bs15hxOv+ori+tWOKbhys6eSzTuK4wDqlph9nMK2+iTLxCVLyvkT0OKfWdkwwHI4pOQw188FYQZ7QJE8BhUHOeYP353Q298rLoL9ZzVXsf+zQ8bGszx60HyIDOt1z4dE0qt9nwDxR6l8CxhI3UQtyxhWTb2ImbedYm/cRH4wnyOaB/W7eOPj8m4+qLu1z5gTLXd6dCwswG4EYZYQF5FDO0bbtNmRGonESi2y1nPF1O9BMAPlYBW695jShbQLyI8jlx4YmhjXlTQDSd8n3MhPWGBZAxNqYmkl5oCd/jRttDHqI1bOxeUu6/ueB9IPVGncb6LiM2WpnVn45/SUHHh/aJcHHwqfF3C9AqW5d3gu/Q==
 #EXTINF:-1 tvg-id="AnNajahNews.ps" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTztnhfR-L319D2hijG__tY-_0znWm9gt4fkw&s" group-title="News",An-Najah News
-hhlTfAOmu0W8txx1r9ooRszI2ydbu6eyAPpnQlqPJHeySwsQQHGt7Tx6eA7CieGYCIDytVkpS5gs2fA6BW2mYTmUXVquieC5Ls/TlyoLEZE=
+Ly1tBifjVrwhyno+Hhcnweq1nkrMhnJaJ0p0gZGeItQ9kz2WrvM5KwwWwNQq6rl+2E0B2K4GkD5NIvNg+a+WghKM6Yq+lZTJcaAjmrFe6D0=
 #EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="Documentary",Asharq Discovery
-MQY7lJcYPNBlkehaiXUsdrr/RlAns5MOIg3dSUATRkwpYaw9i3oKdu8oXJk85VR1h9RCFM+HiufEVWqfcvS5Z8tZXYrysT6UyG91/RHlzAyfbD/PEOErFVawxB/dbHrZ
+fkwLqm/jFYuG73zWGJNm+SlpfeTTQzxZiTdXsMYZfJjOI4Kg6vpM3e+IkP2hy+MhQiVOlc4FgUVSSeiUjbE/P/X2QCiMKkkV9dTil69XHmqgIKFdjEjgLqUl1sK4hyya
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="News",Astro Awani
-qLy10F5NLSzIC5yPx3Y0F9bhpDdjKXjt5dUSBGfbO+TUhtogUR81Lv/Qxtv18UVKU8tvgokMShUxQ9BeQ63uMjQPToUFi+SkvT/bo1llZdtVDnIUYeW1Z46aW5ywHX8RmDLDg46Kj6sR5lNrx8XUVQ==
+ETT8deO3Wy9I6yGxRXmRbanVrl4hThauPJgYlph62ptg9FOx0qhpoNZIHhc33kn6cqoaXAgd7OfyI9L4IvJw5g+7FBF5Q0XIYFSN/pmFh5B2XO8OozUtx9fq1p4QUpCLLJYYIvoro+9cYmrKgykqgQ==
 #EXTINF:-1 tvg-id="BabyEinstein" tvg-logo="https://i.imgur.com/mKJr5Li.png" group-title="Kids",Baby Einstein
 https://www.youtube.com/watch?v=nY339bXOjQo
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://img.playstationtrophies.org/images/2023/09/15/icon/1d4171ebc635660df7175c3bc639b943-l.png" group-title="Kids",Baby Shark TV
-X2w9G0/zIzL8v4d5nseMqpmdondPkNQKTTR689zUAH1/azhYPQl3md0t5DbMlH7oCtRYR03ruUEyF4rnAMC5uAHx51u8sdt3qM+d9pnTLEYpv/L2x0wq6CTHlsjg3HrcB+FgE/YfkcUfyKWG7XAHmHz0bK5maLg7cJ/l1Z5ZQo0XdFmZxvS3now/hpeNAVylE6Y8N1R8ksZb4m6E+FK367l6zz+IU+nmRtSilNFziTC/kEtrR5cjeCkfKcvljFcB
+t33KjXwnHMfVIYXlseoVbV9FaTCWMU+hoDCxLRZ0GwccqgMuooEJy5+b3WVpGnleml1gCIPeU2ApNJvJSVdXMaQk5PobADDFf+pG4Mub5WZqtA5GYcZoozBVBKJiWhL7WqCMk4veuhxdagHzePXThCZjvWLO6RRIUoFNdm/Q0qGs5XbJLY6Xmnv5d1yQOZTm7M+ldiyyrstxX0tOtTmZZIK0XNY2ydBpdcHgy44cwyzCnHHVlhUDPbtbLQV2tMs/
 #EXTINF:-1 tvg-id="BBCEarthScience" tvg-logo="https://yt3.ggpht.com/MOJZbVYYn0xBmutMqMJNiyrrkd87gD9SaY2xu0pyKZVfg4j5Vx4qrLXreBDleUsc4125K43sRQ=s48-c-k-c0x00ffffff-no-rj" group-title="Science",BBC Earth Science
 https://www.youtube.com/watch?v=LdbozD8XeJ0
 #EXTINF:-1 tvg-id="BetterHealthTV.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4lFfomgD9iygsgD-yd4GXwNbjZnb_uK3aiQ&s" group-title="Health",Better Health TV
-mhVqN8ls5pCS25ECwl8PZ82aMsMEoEqFMB0ng3kZoMJVuJD0fZuC5gMFxsjiZ1YIsjt8S4uuQFu/GyJZM9TWuJOMABIgBTcxhdfWQFl+hIFltnjT7Kax/WDlUohUQtJn
++5gjX4G5mc87N65s2cR7Vz8mBMzIdq5Y/MqBkA679M+WM+psLlblKRPw8VqqU3uLwXgMylBlzRPPRPnwoov4G59ax/0lBI3kfI2ZpRZUo4IKz3cfdU3fwpWlVq7EA9X0
 #EXTINF:-1 tvg-id="BetterLifeNatureChannel.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4lFfomgD9iygsgD-yd4GXwNbjZnb_uK3aiQ&s" group-title="Animals",Better Life Nature Channel
-Xv8M7drk9M3+xvvE/kQEX8cMkfHZNd7mBCC6ijYazYueO1Zzq5Q3l/wY1Oyp9c1f4N7RerfFyukHiaZjykmeMzQmb3zJ2WuJCr8ZChx7OrMTJy+SIJ/BJKFpZKNzrIeQ
+4fMx/32SHTA6rife5/y3S95NEDd39KwBL1DfLIakC3ng9+STQRzXCbM1koBA1YX4gMsUKNi/mF0fto5QtoFgnYqpzwr7gUR+rdyOdDiO3edgqV/jHKankZ2Mlk7OXopv
 #EXTINF:-1 tvg-id="BlueyOfficialChannel" tvg-logo="https://i.pinimg.com/736x/b8/cb/31/b8cb316d473dff7033a7cbfee8590cd8.jpg" group-title="Kids",Bluey - Official Channel
 https://www.youtube.com/watch?v=RY2FbjXHeKc
 #EXTINF:-1 tvg-id="BubblesandFriends" tvg-logo="https://shop.bubblesandfriends.com/cdn/shop/files/bubblesandfriends-logo-profile-800x800_transparent_0d2a9979-eb5d-443f-9d5d-86887c271ae0.png?v=1694638808" group-title="Kids",Bubbles and Friends
 https://www.youtube.com/watch?v=AY6yJrXhEFU
 #EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx" tvg-logo="https://i.imgur.com/r7czgOc.png" group-title="Education",Canal 15 ILCE Summa Sabres
-6Lg+vGbH/dkTxmn5yvJ/FvDYE1BQ/jrKcAAi62DPNWB7IhcDSPf4OlCuQ5wnS0XVcZcHD8pObygqmV9hyZuXxWR5gKV6THYU6Xxhz3sLpKEuAq+94AfzvEWFO5MKPyoK55H93AVHe0EjL3I3HDJ3Xw==
+tYv5TWxwclczY+ubFJLTUjEF0EcPmzzfrYlR6CwI3OX/WEw5jLJXRj5PZPYrs+ckCZ46x33nBcVQc5QWPDGv28YAItca2WoJC2OIaLD6zyNa323c3T5GcRn5MEhPB6QSaOR48bHcPMTt3RkDzMxG/Q==
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Education",Canal Educação
-6bsEjWz1vSeqWx5sr+UOq12Gjfv0OPlCU7stXq4wITuYU4/bYRaGfeF9AlYinzwYz4rR7zmjaJsr0lBhtMN8h/pzLCbb8rKbyNUFrNyDy8c=
+BgfJANQVVLOc2VmIN/TkAtH0hxOoirFw26ZqnHJ3AZJq2V5bKYjiIlyk18eUurFwO6SknohNOZ2akR/rdRtxPXxwbbmh6MJqatKL0l9nE+U=
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/1200px-CGTN_Documentary.svg.png" group-title="Documentary",CGTN Documentary
-S98gaeyJk0l23EiqJCAM90vUnxk7pjviBmCsSqYaLeponJjuUXmkz7Gh1Rh12/QSZrNBwqtTTNOpRm38r+teqj12bYqgM5h211VfXUpmBQu5lYwPvARwL6BfNSoTPwdP
+bX/feUHxqQYlxFgD3XDct1jfAxInpaZ/+fn3PZ7LiN0S+p6En8hz/WvrvEY8X+ptuhwWfAkYE71XP2g6YM+EqfTzuIYbDu8pIs3uc3dHvfdZ6KxR98DpNn0NWODI5U2J
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Culture",Classic Arts Showcase
-wSVp5OfN2PumrO6ZaVPUjnv8eKkkmZ5fTsozOh/1yRGn+MGy0bt4nu//aekxEMk/j1om2y3qdIt2hZJqsFX5TvNAjNE77/sHVhBBZSCSFIkg+3dOS7ByZERfbahDGU61
+D4zJWYRv3Bgf3CxjZkzbfr92/1mdm9YoQTji6b+G8fs3L4Ga88y7YjiNe4EUGAQ+OlUWiZqJdn7aZfAELKlGU9gTJcelEPQud/8HnvMBW+KLhtMpmnsCnGLFQzkCpfwh
 #EXTINF:-1 tvg-id="CloudflareTV.us" tvg-logo="https://i.imgur.com/l4m0is8.jpeg" group-title="Computer Science",Cloudflare TV
-sOnJhVAxTbVB78sxKi6b5uqVBUlLJW+RyYwq5Yec+08g8fy0M+ZMsOYsrszEQSQw+6D5Gsgv4s2WgoSeJl4D3Q==
+0EUXKhQQG/p8t9KE5NKklMAag6N2RRw5fIdvS+As2LPf6AUmvqoHqX3LlRpywa6cK7DJQXA5EAdcIQji5pejww==
 #EXTINF:-1 tvg-id="CNBC" tvg-logo="https://yt3.ggpht.com/rkKj6aQsYMytXxqeLCRF1AnmUNYehzbWF7YoT6pIzp42JDZhG_5_Q8ABJqhpofOhCP2cAKL_icE=s48-c-k-c0x00ffffff-no-rj" group-title="News",CNBC
 https://www.youtube.com/watch?v=9NyxcX3rhQs
 #EXTINF:-1 tvg-id="CourtTV" tvg-logo="https://www.courttv.com/wp-content/themes/courttv/assets/images/Court-tv-logo.png" group-title="Law/Crime",Court TV
-9kVmcLlwf5RmAwYaK34DHuvXbxamhWVtM0QERkTtDr1whrW3M26Imj8eEs0QUA9z1FY8d0dniZ9xAnCXGQUaQnNd59bB92QRgv1w2OqcovXpmC6PLO1U6Oo8fyxB29ppMM9f5ZDMcMYi55R9bjuQ091VeuCrB/h66XuXC751sA3yo2alKGt9bqEMC7AbKgldqgVTpXE2jS0tny9EgWVDOW/8LvYcHS7KBzbuJ7cxwa7HM4g6PQyQj2eAAjOGiRuZrKTtgD7hFWsY52oshBpsjW+kLc0qLhmAt36MTgmKX29CQcmXRMadkSWECWNBjKIgbcVcFQ7/bUnYCgtW1dlWDVnxmCjH353kwiHtgApioXrGh9N+ll2bJ0n8VlEbACXQeIXh2nofmvVE2NkHxO5RXnY/5y28zmOL2/rYzYlq+LpJF5wdJguOPZNkDW9QvKvq5hhw4PS3Pr/xhgVq+bSfPq6ZV6/CgC2sq71fj6aGktA17NAwwE2iQqrnP1ibo3CF/j6ZHyPQw5ADtrRBbjllwqKevCpgRD4kTNjZB3kBk+4srMAoun3jc/BV5DbgMPWzl+NLy7ePSmqbrN+nJKDXsA==
+sJqbtcuEo014c8V1ONvVAIOyFo/q6NRveo9FnNj/QTLeQBHZ76n/FVNugQjWqqv/T6hhoz7aHuOopAvlyN8KqbA9azxNkkp50HdOjvfi/6L3WgANW9bEOaLq6+5UkiloojhApFIUX7GQTWUoW0I2FskKsxS6nFQ6UcOY6jnr+QPJzSmBksKQmf4VseLc6czZSaehDUrOmJ8EwDYaN8VAfiDgbKmOGPA1I+1rCx31L/c91Cf6w7LvizRWeARcvyLnd0ZSowM63kUKkm1xLigsP3r/Vn2xhwlzsT7SqcnBY2pnRFlCiKmiRYg9AwLK9M3SQJeCd09kI3JMIfx15vWrdES2g69llnxMmq2QSXCsGeHTZoCu3X9hTqF2xEtBflq67PMEiivAPcMhOGk/p+SKXlGxAIFCnf/IM1p/pHxkXuUBKKHIxDrBNz3TReBI9p44ZGD7bUtuF5qio27JAyoxQwWQRlgfIIBZNVEqRPOHjA72A3HuCEcFgQzRAfHG44dQqMx/067ercdOq97uDH/UE50PJwKQX/tplJZ9La4u7Jg62+6Ttf6hxnN8Rf5VXccUXq6PqLkWGx42rOHzGNJGcw==
 #EXTINF:-1 tvg-id="Craftsy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Craftsy_logo.png" group-title="Lifestyle + Education",Craftsy
-p31sTYEkmEiuDBgleQNKTZ8OomBpE0GD3FnZkREio2sz5WOwXRP7oR8Aezk1Iu0TKqN5H8a/Yvg3l6W5xoANrHdJqfZjwfxgTdG2dyYSyuX2ofNX9+5chBAQ80UjpOzt
+KB1tXnkxE627W936EuqTNTIrSVgqprFHJI00A8kQEWo1CvcXC+ulPcnHjoIKXVIun4ffPZqn9V4iUm/4xfGpTva02QwDvigNBzgrskvsd3wD3Vs/Q2N7yhdKg3yOPAm+
 #EXTINF:-1 tvg-id="TVOneCrimeJustice" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/TVOCJ/large_white.png?auto=webp&auto=webp&ver=1&ver=1" group-title="Law/Crime",TV One Crime & Justice
-37u+MJ+FyZuGTEphKKZpKnpUl/pBYbFRdm/C77sLRFNWkwTc6awhY2PHXUn6S09raX56OVzQemUmVeUvi6EU+VmPmWTWVa4TUQq0ajI2a4A=
+FQHfx5cZoYyA8I9rmgFQqGhlqbM8wHHCjYGLtvUFkwO2mGizl1T564k9DBUY3zOuwkey/AjihwX82d+oFD0bLIcXVi3vop8dKZvDDXGZups=
 #EXTINF:-1 tvg-id="Crime360" tvg-logo="https://yt3.ggpht.com/rsnNoU8HqtXu6fN9lnrNGyENwy_93_dLm7IgSf--NiqwpAhlWjCurRvIxxc3i5EFdZF13Vi2hb0=s48-c-k-c0x00ffffff-no-rj" group-title="Law/Crime",Crime 360
-7EKryyiSO/19gpyvkdVaT05U9FsIKYpNJrhC1IYEBF81NUieCaS1Sv79MD6v2nDCKvVZX9URvQVIG8IV7egpVM2rBkeMQojjk3JGQoFElIFWGPVx0E7xEdZHrEfHDBKi8tRde4VC82Iz7anBvMVm9WzxO1VRvVAJar5cWCX0W1vYVnBiHHh0dY+vnIMb+y+VqnYfzRrNTYh5xZMvtW4Yjn7hfxF0o/ej3OwUIRqstGH3BAAywxXSBXqiudLLVReC9P1bElQMdYkGtnAqXVl8cfDI/V5kUmyuXEXUMgcBTuaV4wrOy8+ekL7VOdpG2bWaa/ZAI0nCxsPzZf7B/Qj0+rh1HTZB0ePoE0p8/vU85Z1c3fxVXcnR6ob2ObFuX4Zy/+YLcBia9rS963PRomDeJxEPpybInoPczFcRkrsKywB43EFbM6MfPWBquB/EMG5rCGhmWnKGK534Db3yp8/6xIHDUHIedEmX7XVb005FQBk4qX8lD0jwK0y5W2AHTZxpDrYdf2bSnmOeNuoQNScUY3VvFqqd4BnJGpVl6Lmbqbss61RkXn8uCpZiA/qJZyexZqcisA17ZKhEdLKm8NtiDA==
+hwwokGkHZTLBXxldBsl3aD+QBf0ajNlRkb8S3FVGMscu8a4m1MWqe3vMVDeZYS3nxxH+RtTor0WVqBezpQzSRnN5T0pimePvedlhBSBhp38FyGmCgrvn2SSA4tymy4VKk4yKuhp7nZ+1r8t3Z5QvIB0msQ5WpkC0S1LiXcLyS+SWKTgA6bxiuap0nkQsQtPkCrcNM39KNAdIid1mJ6IlNRZeFlXnbElf/RBOoPLHkAc58ObAaEzu727aEQKxD6JwzYVN4Q1Z9SAk8qy8zZ1qLaGCBOReKqVrDm79KEnUq94lZBMck/GdGyfWNpcl79UGD1gYbsw5w2667YsvbtbJF4X34KQwvYdJeeWhC05TjF2PM+b0kh3ig6XQcAVWvsKK8y7K1FaFQVepXx6Pfq34pGAi0dZ42ohUbSiJ3qa6rvuGBBatzNItj+hGXR/denUf6Ag9oBAQqclgyyIodlzQU3NWfEjrRpyaiANEr3KfU4SDR1t9y25phZJ0/J3XN7JUh8tiZ+ridYoNQL9R8GzqRQFc7SaCjwd6S9npdrYWAotCaIwYxpd4JZE378/fznwsWmRua5lNYk3pn3VUYXclyg==
 #EXTINF:-1 tvg-id="CuriousGeorgeOfficial" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mme5GlHmFNnSrrGhurc8y-IRauHMAkCUQGbAF_k2CbzCs=s48-c-k-c0x00ffffff-no-rj" group-title="Kids",Curious George Official
 https://www.youtube.com/watch?v=ltx1RhNsN6I
 #EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="Education",DLTV 1
-NzLVvwLC0M6eo0xC+ItUPHpphZlMl5VpWXyI84aXD/2tI8HCREfuVqvbpAqQtzrR6socErjzpZuQgMEVqI0t/w==
+hUqkW2wWT9eZi8QxjNfUYDcugI89zJx/pFfYhyxj6BTDEkT2UMdJ7JaN8E14fyWs1RKHGuLy9awgVm0Jl5mG8w==
 #EXTINF:-1 tvg-id="DLTV2.th" tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="Education",DLTV 2
-GVwRjLxXqeglwz+wHksdj50tf06B650aGgWILflUBMyoCgLcGhhXLsRph+JElkN39oYcad4HzbTgMzVGszB8oQ==
+FnFQnfEu3Rjv/E2e7K/mojwivAkH87tDG8WaC4xO1HuxjEvhC/LkkCpAAIcqXTTYIsG5viypbNr9hb3RG88GkQ==
 #EXTINF:-1 tvg-id="DLTV3.th" tvg-logo="https://i.imgur.com/wmrxerm.png" group-title="Education",DLTV 3
-Xm5UzM3L2LtUAwuy50rkN6EeEfJJEwrly7bTdqcNmgGgk/sXKZ8F1OSvQ4wrEDncIDY+itWzMSN/WFgpZj7+6w==
+rXSL0jzaJS4NDxCRF55gGDg7Va1TurDhg+zQcAORJXGXZkSE9YAQs8SGcI72SKNHRXcGluZhaXwB1I8ZELjHEg==
 #EXTINF:-1 tvg-id="DLTV4.th" tvg-logo="https://i.imgur.com/WkpoQhU.png" group-title="Education",DLTV 4
-b0BLYWC/ffhDx59rQS/drVwzmMtKKewOJvqL7JjP8I3R8Cgpzu74IOAaTxUjmqCJMi1oU8uk1Q4P8CGncHadLw==
+J1huDnCbOWPtPhl3aWpszazE1V6pUU9q+T0Y5CYvL4DyUb8HnQvNvdpdh3fWiY9GC7Ht74AJcANkfwfxHSC2Mg==
 #EXTINF:-1 tvg-id="DLTV5.th" tvg-logo="https://i.imgur.com/J1E89jX.png" group-title="Education",DLTV 5
-j9bHJ1OeDfO4zJ4lZ7Vk1Tk0ngerVMGizFjYhFKqSxOdfFU+XYmmJQvXY86gPRAWWv2zSm7WGBMGq5faRL3qsQ==
+m/yRtoYcDTz96VXp7ACi0WsA1qNnYTdSTUo31vCQxrRBBZksNfsCRCNWIeRe3OaGKM9ww+ppyphIAw0O9SKjXQ==
 #EXTINF:-1 tvg-id="DLTV6.th" tvg-logo="https://i.imgur.com/qeIHWC0.png" group-title="Education",DLTV 6
-Quh6vkvYX5HLykJy/9O/YJGw6euvvWnDVikBISW7CTPtiaCg71T0IaVFwH1xUxIf8vj0DAV09h9LnWtqirfVww==
++8GpFUy4lAvgUynetKTvmV2fD/VsJSRf8U3rD4x6iTy7C9XhvDnus590IW1vxu3Vgz0dXfBJs9N92wRWWDCPpQ==
 #EXTINF:-1 tvg-id="DLTV7.th" tvg-logo="https://i.imgur.com/OjYwMe3.png" group-title="Education",DLTV 7
-fu5Vb3htXn0EEtPVcONS6IYHoTMOrjC2kI19HCsCKDM/Le3ICznBJVYXVq31eKF0AySOCczTZaS0ja/YebNoCg==
+PV48bAg4niRS/B7Jh9Ncv+IUQxKGgMi28btWhOexE9RPVm4Crg9xKo27sZhJTuU5DXCbE8cbwvPAaQeTSv1kGw==
 #EXTINF:-1 tvg-id="DLTV8.th" tvg-logo="https://i.imgur.com/xIwn5Ha.png" group-title="Education",DLTV 8
-OfWQbe/Bw9bJ5k40/Nr15CUH2QMJom1Q46Q77fNmCo46ERWnABiZAwdhERQzwvBrz5eswauVKFmchKrBe20XDQ==
+jUytUZal2n+nt1FokPb9QHBWee5zT+9LQpW/9WBykvZrPWIxiro39u8YL31T73vA1JBPPfQ7mtxocEAioh0XUg==
 #EXTINF:-1 tvg-id="DLTV9.th" tvg-logo="https://i.imgur.com/yPeSAry.png" group-title="Education",DLTV 9
-qgnKTe/VBl5c+kDcp1MILFgEAxX9Y31wiUP4jWAl1B5DpXJGXU0Kk4BUH/132s9wCyLDMD4X3EAO1zKludy16g==
+/TMjO22IfGGMzwjSq1yb0zYU+7opl6OLqV+O3zid57anWh/14Jfqizcvl/7gRkOsH9cS+iaM2KH55HC0cu0wcQ==
 #EXTINF:-1 tvg-id="DLTV10.th" tvg-logo="https://i.imgur.com/TgN81Zr.png" group-title="Education",DLTV 10
-t5aNQoN4GBdb/s9CHTbzH4ZY7ufgcVeJEARzKIRJXTS9xDLgTwEXNPgcuEeZRL/ylWGnWZAJNJr9QmsCEUF7lw==
+sWVakDF19DEk0pvKQ42HRhfMo5l1UmNRAufUIo1On2TAmOoIoRr02K9Og1mMIvqU3T1m2LA/N9K9t9Cvk0m0aw==
 #EXTINF:-1 tvg-id="DLTV11.th" tvg-logo="https://i.imgur.com/hFk2b5s.png" group-title="Education",DLTV 11
-ClT4J0rd/RilyLrYu2SdlvsbXxW7s5amleT1liGyemYMjDDQ8LclPNiqFSPCS+GeaPrLmrwh5AeGPYPbay/86g==
+AtPxp9UqsVRAsrpaFd6jvWHHHBVyieLYoyqnZkx0Wd+VVJW4D90qY7KKDa9/4vKAZDCEUiCekH8srI8n0MWCaA==
 #EXTINF:-1 tvg-id="DLTV12.th" tvg-logo="https://i.imgur.com/ITt6lY7.png" group-title="Education",DLTV 12
-ocF4+p+cEuojMWnaudvmBAsTOpOPLXJ42qFeDhbxH2n33jMkIpE+KhWhM+Wxq1cp6rcB7C+lyNLWCuQa14MDdQ==
+IZ6o8le3NNf0lTKsUqCbRppn8krWBhCu/ccCWGnhPfYAQtWnBEckyrm0SBgD/ZYyhre888zyDukT1w222aXy/A==
 #EXTINF:-1 tvg-id="DLTV13.th" tvg-logo="https://i.imgur.com/asB5w3v.png" group-title="Education",DLTV 13
-hzjp0++dX33SWfJ2DHCkwFIi+ImV2iSGD+0Grb8HE3XbX89d0p8M3PtSJXnjQwO+dRWu8tgSQlUHFkuR5ya6CA==
+I7l3Xv1y7sXyGrNnDOnkMPmbBGy1TKq19zSn0bygvq+cSpI7xvaKP8ZKtV2Xr2zatsZBkQCMYyQa3E6IOXDOWA==
 #EXTINF:-1 tvg-id="DLTV14.th" tvg-logo="https://i.imgur.com/HOjZRNS.png" group-title="Education",DLTV 14
-H2rHx0z91IUmTjLDdTy5dPqruY4IGbM8i8pm8i2D1wjCdnaR3ObqB4B7HsMrOmDDKqdp7QBUzC7tCxDJy0z6sw==
+d3E2tOC86WB+E7u1Uo4Js/alB9y/O+ZOlIyNmftF27PzbV8H3toor1at7r50JLHORvUqtQHAdLsSKVldnxu7GQ==
 #EXTINF:-1 tvg-id="DLTV15.th" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="Education",DLTV 15
-hUay6yDpTSUcf2ALIEIbseiSv+eC6/WCO3dhm7+y5WtmPoGlsS/CuCH+olrujn+4W/JBPI3RvUW29YOgb5X+ww==
+lGqhXUm6D83S1687ehsWGJVHgTuuketRKk+cVroTIeQrOFtakAK+zv/EDpvhuUJPBg86qma0dNHnG7FjUBdrZw==
 #EXTINF:-1 tvg-id="DW" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dd20dc7ce12901f45a5f100a4cc97032.webp" group-title="News",DW
-up2NbLRuc8ulu4hwDLb8t3XrFErKkD2ycocDGernK9SjhAqep9FHdEyG2Cxi86tykZ9+yKn8t+GfYTLjK+PRpV3NOu+rtq3ED90vAiqF3HCuDjvdFifd5G7SPNV9SO5t
+VGx8ZF3EcjwkVCHyYs5YM/9n2NLGGgwlz4rqkEHOe09XuAcu7INEDnh3Z1YzVYbHJpNtYTpSmJkIBksFZxwsi2ECDVVky6/mFXa310At5NIJxgDszbyWBHs8+jnSj+kf
 #EXTINF:-1 tvg-id="EBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/EBS_1TV_Logo.svg" group-title="Education",EBS 1
-1xxf+Hdd+C/ZIdYOBt5PfjudC8tF/BykVT3ZLeV0p3nRm/IotqSEwJV+xB2s/Jbtj5GAso043fINpBJgg+mxEUP6gfB37rfpeNpnMMBzroM1zf3iTCMpqpANE1/JqtmU
+xKKyvFW/IMvBLRd3grc9VgpRpiLwGkRDHw3R4KAm3ADMeDHj6DEWUEaKAp4Md1IeyQrdYNwxBNqWQ8mFdyek3pRu5ZSf/cxRvLrH451QpA4Dr5ufvnQbFeVLaUJ44CYl
 #EXTINF:-1 tvg-id="EBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/EBS_2TV_Logo.svg" group-title="Education",EBS 2
-zPXo+ZMS+D/fj5M7VuRYr+ZlV4f+NwMvZVndyMbzB2Tu78OchMeXCM71dHBEYfnDdMgI4JP55QUyqCmo9j6T/K0o478BrvaTQ6nw9Tncaxsb8i4y2rIF46LHf5CnVxRj
+mGB91S+U7DYsoHSSDQsmlhWkoW3OuN4Xh/nve4iwL9OqBx7O9wxOmbB8TpunRL7e6VAWpBgsH4fVF5Cm7r32q5utzzXjpb019swT7objJpf/CodpOKWU5kBv6MmdHWUV
 #EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="Education",EBS E
-WKZcZa+asCzPONvB7WhmbE0NRSZfe4Dbk9h1dlw/MuvMDU4KZsvUhFLClwNdRjbpSXzwgUOpkzSL1crkAF0NKWb0JN5MDFlriy1AKDpXb+qtWkfo6qJak5LkyAd/See3
+6pxRLtj/TJcA6ip9KwpN+igcnUocmN5wYsZTfveDAES1QGuVlU1CJMFFnmthxNkLPyQB7uN/hACQsbDHtXOsaXZ+7aqDWI1Ut1qxgR2K7ox/kO+bArJm4RYFd5VK9Lsd
 #EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-logo="https://i.imgur.com/aCeuhon.png" group-title="Education",EBS+ 1
-wGaIMvowe8GCjhsEXFsKS8TuOAp7C7Z79Iq+GOAVMqzDQpN4PPr+K6YGi7tbCkXuKGMgvBmc2c133bqzCXcS34mZE9hatMRkzJkAdC1wT4wwzgf1co+/7N6XIcnrhja2
+btzm5Wi4UpDudu8lOieqb96kKCvEK/pVXsoDxH2w6jAtmbyxqUf+mQWesNrVVWN/ULOGShgJnr/zZHeGIrfOyGvVNbqtkwoug/M2c8M4oNwwY7h64n5r6Xxy02FxoZil
 #EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="Education",EBS+ 2
-4GdrNuRa2yNQg0p5VmA0V0vtVcqa/8w+MKD7r2CeL3a1cR5hI7jkp+BNCgwqwWZJaVgzxVNuZPXgk4lk5Yj8QpK2kRUOW1KyMeJdkfxxCGlM14pgLflDGxjOv9eITUTw
+0N/CHbvN8JxU5wezG23UNtKM5YRljkcsabQOMTYgwhdLaz81ItEAULv/YuuUgpG7pWq9Uo0+aToRF4Vhd+cn9T+e11Z2AUUTxDaZCoyyOYrPGHmDld2uyMh6893P7LzO
 #EXTINF:-1 tvg-id="EuroNews" tvg-logo="https://static.euronews.com/website/images/logos/logo-euronews-stacked-72x72-neon-blue.svg" group-title="News",EuroNews
-ZshOyp4g+fnUgG7yG2YrZlAsPUBIfrn3SYgDzWf1gntZOSClqAkLo8DWYWsUGlI0fjzzBvRMFVo1PFKKHsdLoYNnRUz2ss48OZEOwQs3gCvjLWtanC0casoOdDcvimN8dTtqJGA0wSsyxYDfDtUGuw==
+3eLztxkEayQjasDydIL+qJiSEtPhiVH1feUBhDYvdVQ/nPG9+FAP8GlYkIHbwL4bNf/NIt9bGn01QjkF4NApO5z15Wj2YZ6+4rgDsqYncPgdPBtLRknZeSR3FKYgzlEpOjz3WEk27fWO5WD/OfR7ug==
 #EXTINF:-1 tvg-id="ExploreBirdsBatsBees" tvg-logo="https://yt3.ggpht.com/WOBxHKY3hBgAsobag1fRK3qJwOB-V3t_972w85tvlKs6FA990ACejkxtg9VXeopsTFUprWz2=s48-c-k-c0x00ffffff-no-rj" group-title="Animals",Explore Birds Bats Bees
 yt-live://UC8NnosPOvXnm0O1u5YnLQiw
 #EXTINF:-1 tvg-id="ExploreDogs" tvg-logo="https://yt3.ggpht.com/j4piIdl5WU3Y4AnZ7TPrUmydI0zCxTO5B2SET8khGFK4Q5lPbCxrIhYyxFPmvLT45NzJ4OY3=s48-c-k-c0x00ffffff-no-rj" group-title="Animals",Explore Dogs
 yt-live://UCfC0RcYzDQcFtHrce2mpvbA
 #EXTINF:-1 tvg-id="FalastiniTV.ps" tvg-logo="https://www.falastini.tv/wp-content/uploads/2025/01/Untitled-6.png" group-title="Education",Falastini TV
-Y5uVo661m2u8bVeD+GeIum95SvmEVvy85RlxHE8ky4sJK3NGUlWt3r9A89Ve1KyaHEEU8PCyECRZXJUVjpErPgx82hF6wybmcL8zITs95NzQsD3ZVo5txL3k6vPqI2YL
+P1Vt+RY46SDxNMBbK3Hhy/TKFXpfUwbYyfU/KUceNuVf2a86HV1IeUYVNbmInQwX4RW+2OLQe0t+APVuZC/x3yQxeRxWkRuN5mitdHXedYwfUZooiJGrT/m1h9Zx2oS8
 #EXTINF:-1 tvg-id="FOBBVCAMBaldEagleLiveNest" tvg-logo="https://yt3.ggpht.com/PNCh6QMJG29Y8jWYUVN1olsu24IqK9QX_-BA7g3cUZoYlf9ocxSGAfFCB-HY68y1w4Cnj4mJ=s48-c-k-c0x00ffffff-no-rj" group-title="Animals",FOBBV CAM (Bald Eagle Live Nest)
 https://www.youtube.com/watch?v=B4-L2nfGcuE
 #EXTINF:-1 tvg-id="ForensicFiles" tvg-logo="https://www.forensicfiles.com/a/forensicfiles/logo-1.png" group-title="Law/Crime",Forensic Files
-Z8AV/QiEEpcLgpRhMqZlg4T/0ts7MaQlnZ4IZ/AsrX4MUJmk4sjvs2UzGhG94NDeX3PIPcTcJBBCXp9sxSAQ0el3J4q+vMkx0o5DWuSNq8KcwAzcj2EHzVTXjsmzV7GZ
+9UBeJTM0kmmLjEhFICPV1Xry2U4oFR1jEFFdtGN1/ttHvUD7AVgH1gQs8w8vSp4DBbisygvfjBFiutmGQeLarkNP+XlR9Z+lRvMvJcWkEi7M1HH/bSZT6gyHhjkkkL02
 #EXTINF:-1 tvg-id="FRANCE24" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_k9aU_SRhYAWJjQ6AO7uzQDZE5mb7gmv4synLrC7hEWGjE=s48-c-k-c0x00ffffff-no-rj" group-title="News",FRANCE 24
 https://www.youtube.com/watch?v=l8PMl7tUDIE
 #EXTINF:-1 tvg-id="FreeTVCrime" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/60e3d0eb291c1c86f567c06f75642620.webp" group-title="Law/Crime",FreeTV Crime
-sbOmfJU4P3GBrffdY76veGD3PWlkddJoYhELftDmhUxAYDzgva5OmaDBJbWhH9VJevstGnvrzzSOTSkhvlb6DnfkHE6S6qydwZwdwoP7O4Q=
+XQw4I+D3Fv6qNUrIqqGbOulnpdpm+tFgurSr17v+sT+2De9m50r03Lzs0NyER4AZyE2DXhZAbbFjYY1B2ppMkRfpqSGa7NYJJupv+CwRT9Y=
 #EXTINF:-1 tvg-id="GabbysDollhouse" tvg-logo="https://yt3.ggpht.com/lAJuMTkcBrgIX1-rVz6esXYKxLWBzdfzLi1LPkNp-5c-ShOTwD9mBZ9YyicHx3iGE_jhUU0P=s48-c-k-c0x00ffffff-no-rj" group-title="Kids",Gabby's Dollhouse
 https://www.youtube.com/watch?v=Gunn_mc1K_o
 #EXTINF:-1 tvg-id="GeoNews.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="News",Geo News
@@ -156,27 +158,27 @@ https://www.youtube.com/watch?v=8zZsZVql4tg
 #EXTINF:-1 tvg-id="GoogleCloudTech" tvg-logo="https://yt3.ggpht.com/1a3sAZKZj0xtTNPJCta6_MQ1wWfsjK2URS1S5bL_NJdDcYxLotkg4tWmlC1lz-K8kULyz2zHlUA=s48-c-k-c0x00ffffff-no-rj" group-title="Computer Science",Google Cloud Tech
 https://www.youtube.com/watch?v=y4LEGj0gG4E
 #EXTINF:-1 tvg-id="HKTV.us" tvg-logo="https://i.imgur.com/AYzdlMz.png" group-title="Local",Haddam Killingworth (HKTV)
-7ho1ou6RUSQZi9PSRl2ZS/rZtdODsxn2QEPg9qUHRL3PqYlVMj9pSG7azOPlpp8U9fSTjQ3newQTh3+/WHb/wK12BZ10WNZ2kcWZ7yMAhZQ=
+8g1UidnGtpA4cEb4N5xu91Mb888VjyxUlog98v8c6Ppmz74RuOwXqGt7jvSvhB2EL2qVIYYqRaKta4+nThChzy0HLsTe6Xef5tM4ZxjueAc=
 #EXTINF:-1 tvg-id="HellenicTV.gr" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-sat-logo.original.png" group-title="Education",Hellenic TV
-POP+hPvx3WBklpl9JbImrh1gYIIPVj6nLx4GqQWSC7MrcX9IU4N7zXLmuUfCf+xt8Mv6i+Ioemb2RdUn6d5vrpdSRrGmIPuBtFUGObePXK8=
+GUDknQ4Rw4Pk4zjLtQyWYhy5qXGhoI7r87+r/et4or719xABTiSJrMHnaU40KoNgOvSDV3YU7BJSKt9yXtSOMTTjxPeM8wJX/Dswo4pIcPA=
 #EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGuPF5KaGOZOGjTaknwPpi_sBf96e5gTMuYg&s" group-title="Education",Holy Quran Radio Nablus
-k9uU2OvfZD0zQBbmhYfuIf/hKVMeI8iXFlUYDaz6Pez2/ujJhXHzw1Qic46kO5hCcVJt1Endj7xqJQZpZAMO1O0ITKUCW3mUnDIYVrBd/30EpAofkH8Nz4PHMnCfbse8ToxH7DT8Fq4DTdkG6AgNHV7iBj9j304OuWQXBX+qJDLRvLv1TOfBQVRHCHjiQknh
+NDCaAhE7OY6A0gTctldXFQa4KUAao6br1Z4V5H/8l/1/4Y4g8DDgHpVYDuQ4BL2drDUxabdj3VGRiB4rLcIDy+cjJ6m3AVsPbWme/3dgjZXKwNJdh6FcZUxcr2XfOgTBgg3bhW/Eu6fwty6ikwcdjvewbIQAk9rBzy6g+CNvmR5cpEbtFObn0Qn88Old8LDr
 #EXTINF:-1 tvg-id="HumphreyB.Bear" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/HumphreyBearMed.jpg" group-title="Kids",Humphrey B. Bear
 https://www.youtube.com/watch?v=ncHW_BBbRHE
 #EXTINF:-1 tvg-id="IlmvaTabiat.tj" tvg-logo="https://i.imgur.com/MDULX7X.png" group-title="Science",Ilm va Tabiat
-+ipj6SD60l7kBjJCbqWnmwGtfJ8O5ZrfYobuZXTtKw4+jvRk2F9wlzbvQx4deZAe73MJLIph2puYOvmXHUCoQA==
+vojkmeMRV8s2Hp60mNJQCzrOWAWba+M4jjWcqgLR8vMDM0kT0YA3S/7iuhpp06okNZKZf08MmQmXltk/ZIpk2g==
 #EXTINF:-1 tvg-id="KCAT.us" tvg-logo="https://i.imgur.com/ZAypRkk.png" group-title="Local",KCAT Public Media TV
-PbKlasq4Nv8xsrWc9R916ck8QAmkCSMjHZcK3Ukst3RyoWviYOOoWxQHe79TlFnY9goxSBk65aeMRMEqLZSVM4t3cDO2351NfyNmYec4gdY=
+ava3e5kMvrXZN5zyhpHtWvhFv06EpV0uyDHNZSx0m+uSJbP0AEzJes9E2YlLpwbjoCBEj9uX7GzEN2Dotbx/yslDjjdwjtuHkdqw7CAnTg8=
 #EXTINF:-1 tvg-id="KiteVicters.in" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Local",KITE Victers (Kerala)
-6jDcxLvnszWHjHg4iMX2JPvTglUEYk9WcCZaBuxEQJExDM5AJcTlbx0F3/+r3BbJutjsyRWffMeORRSi+fXswzssKYlbWf0us3K4hpA0WYLXVwHGvAEkXBDjB6VMNVRk
+3ZiJ5KXi0QSHQFolP200aM3JyMXzQjxVIHlrxzObNKeiA314ZcjwMOvUctCesJ07rWUxMCtiPvtvD+ScxG820msv0zpcvEvE7clKn5pZMmHFTOA/DEC4JC28nxUuTkyL
 #EXTINF:-1 tvg-id="KoalaCamSanDiegoZoo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87a162e91a887912ddd6cf46bd1dbfc6.webp" group-title="Animals",Koala Cam - San Diego Zoo
-5jPsDDPqmAjgluwwKdT2nwaUu+YLXPhbwVWPw/y6S+mhvlEHPQ2APJUttfKq8RE/nGLrL83BxkpMnx9fCUW/g0qzTlkeCcXQlm8y4ghOEnCCR0plW+MnbIlY/0IJxqtX
+MVWHVuJxjNMJV83zjHI5C8UjlYZES7wv4ufk4EsSXl5nun9n6adaCg63l/1FqFvjErMlJqr7bKxvVM5uTg8blTNMcW9gRvKdlWLYfChTB6I99gbKFpG4fw1hpiEDd8qU
 #EXTINF:-1 tvg-id="LahLah" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.GIpahLOPrJq7DxZkZPKqugHaHa?rs=1&pid=ImgDetMain" group-title="Kids",Lah-Lah
 https://www.youtube.com/watch?v=JMjiOXE1vQY
 #EXTINF:-1 tvg-id="LalafunSongsforKids" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lgVp2KxU8z1IkUepemAjyteBYvbxfId1pymTc7jocoVQ=s48-c-k-c0x00ffffff-no-rj" group-title="Kids",Lalafun - Songs for Kids
 https://www.youtube.com/watch?v=-CT8o1VDF6M
 #EXTINF:-1 tvg-id="LawCrime.us" tvg-logo="https://yt3.ggpht.com/CRP3YudPa55QypbDnIvuh3erLZTsn2HK8ESR-2fJFFiLJVf7US2CKQELCKK_UowmHA3wCjAdxg=s48-c-k-c0x00ffffff-no-rj" group-title="Law/Crime",Law & Crime
-s7eVejGLXKPnyE9xNHdPqOQolOeiyk/CAM/W+KcpbnmnTJB/jI0pgFeyc4aB50diZlGgMuPGI/jwfMht7hofoDzRZDU8mty7O+3ceVM5Alk=
+eJhUTw0jbRMKJaiI830guNl0JldodIwH0CFLapVbzI2O7Fb28je8J5J7sHvvRnOjsSn5B6FO1Rxyjuub9/hRCsM2bvSar3NhVdmyLeR9dUo=
 #EXTINF:-1 tvg-id="LearnArabicwithArabicPod101.com" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m8bGdgjUlhWLLFQ6-gBGQofC_HarDIQS4ADrBFPEpJEHc=s48-c-k-c0x00ffffff-no-rj" group-title="Language",Learn Arabic with ArabicPod101.com
 yt-live://UC5bjJ5x0i_XRGTMHF2IoL8w
 #EXTINF:-1 tvg-id="LearnChinesewithChineseClass101.com" tvg-logo="https://resources.digmandarin.com/wp-content/uploads/thumbs_dir/c101-1w3rytannnvwg8ry7vtyh8v6w10hailh2jqdrci7orqc.jpg" group-title="Language",Learn Chinese with ChineseClass101.com
@@ -260,119 +262,119 @@ https://www.youtube.com/watch?v=NoCXOj-Tcpw
 #EXTINF:-1 tvg-id="MsMoniToddlerLearningVideosNurseryRhymes" tvg-logo="https://msmoni.com/cdn/shop/files/Untitled_design_97.png?v=1739302941&width=630" group-title="Kids",Ms Moni - Toddler Learning Videos (Nursery Rhymes)
 https://www.youtube.com/watch?v=1LfD0Rd-Wr0
 #EXTINF:-1 tvg-id="MSTV.us" tvg-logo="https://i.imgur.com/x0lJqSp.png" group-title="Local",MSTV (Manatee County FL)
-QRVNpd93ZAjZ6M6blcXyrKWAz11s1Bl4820EWl0PML8hzG66T47eBxQh3KGySGz6XsygBDHpJxgP4Gffzsz5v9LuWvv9yQ7Ikqg5wwV5Je4=
+tqkVi7PYzMuk/N79EB2ShGQxHi1p/fXe8iLLdGazO4ExnGbgURiBkca7TP9ptQPw4o0FiFvxqejcPDZmSAQYRsAPb63M5OdLN1hELQ2J6cc=
 #EXTINF:-1 tvg-id="MidpenMediaCenterChannel28.us" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="Local",Midpen MC Channel 28
-5BQoGVAtqwkov+jrGa+VlFt/Y5amSKppoZ/vGc8sKOQ9tGJxTE37j2/KUllQDooWUouGQhbpLs8P06j9ivtk7rHzVh7fTgZUtpX4lwWo8gk+SSRZUoQmVsAxSVQy/Whh
+e/eOs8gp7/iepZLt0kxwCNmCxqhd0wyWpTvTlfkd5Yms3CUEo/+Xx9cPga7Q0T5o5Vfgg0kGkPmS4jad2qXXLvxNFcE4Al1fw1+/dkdmXNHkQdBii96sO0X+jJg2F0Pt
 #EXTINF:-1 tvg-id="MCPSSTV.us" tvg-logo="https://i.imgur.com/qo5sk1g.png" group-title="Local",MCPSS
-mo//S1XVOhqqZwMogMDGS2NgxWDEkzh8mcPe3NWxrsVBwb8kNkTijxNQxaZUo7eRETOzuaMvmrwnxTOsCzrLUlzKQzWqRQ5b07Sg/RXmLSSFMIIAONoRnYExW5qwp1Tw
+szQGhSDoMFE3OiMPefTOE9a9xBQGHmQ+5wZE7UQNaw+JJ7VoFDNrvyqsBRTzwCCgPDwWP1cIWZSdIzlCFUS4ioORNW0PesLpk6o1jBIW/qLKmqWqZRhikGtZULsonS5t
 #EXTINF:-1 tvg-id="NapaValleyChannel27.us" tvg-logo="https://i.imgur.com/6GtlOSi.png" group-title="Local",Napa Valley TV Channel 27
-cIZPiD8SYHmd7dlREPkyGuRQpzTH/0URysukeZ1q7xm9oUpY5bJiWHWTKkDEoRrr6vCD29dOSKvjtqeF+47vr/mshbjphzSQd/hLMBYlBoC6sxO7Oq6pzYYMMksaeIzS
+8H8xopFRxG2bVAav/x0lPU8yUWw62qkuEUCoM49Gr/4xRos5EPdy2AqaNprkERa3esWaf4a5/al11R+x2KXy/AzuSIpPcThMRwQEHn2Z05b8o7PN2Dz/hWa8M01SuNUx
 #EXTINF:-1 tvg-id="NASA" tvg-logo="https://yt3.ggpht.com/eIf5fNPcIcj9ig-wZBeq4stFy1lgjWTW1nLT5dYlFkHZprZ03QBiMcbpwNMB6XSBjrSFGtAGQg=s48-c-k-c0x00ffffff-no-rj" group-title="Science",NASA
 https://www.youtube.com/watch?v=H999s0P1Er0
 #EXTINF:-1 tvg-id="NashuaETV.us" tvg-logo="https://i.imgur.com/iv9Vfcb.png" group-title="Local",Nashua ETV Channel 22
-hT4wOLh1UPYQo+KBJvHrdpT7texS9NX1da5mHzFbwjyR9dX1GvELKYFTtgEs8SDrvvKexSXZGb9dNgg1m6TqLptlstuFkUutVIvu8AT2EPhIShdxLrAApqKrYHFWLADGFou//Rfh7cx0jXP78MkIfw==
+PuHOX22+36k2kRMMv0fIl7JCj4dSfEbX6fq+hDLpk4xv4cXLhEeNIWEetPHPEQZRi7bXF1emz+rug+4a/6qBASoKPGc/Gue/jJeLAX/ZCc3tSidfDiieDYYGmO4NMljf7V7hTqj9yjNkuHjdVkcLTA==
 #EXTINF:-1 tvg-id="NBS.kr" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="Science + Outdoor",NBS Agricultural Broadcasting
-ACpVbUqUp6N7PObw1kqZNGzf/ZMc7fTw4J/546gztI471YEg76vhl7UI7A7BTmu65br83nusVQJ1AQ+tdHLoP5RaGYVX/VHRRbyxrNoZTa+ZBLBkUlW1UpPh2powgT1X
+MlETPN46j9Rp0mxp9yvDimq1ylnT/sTqkyn65mLv4UJYd6SqhNwklJYXaG/hnWwl2XGtgTHF/+ZOUBFUDBzyP9YrgSXR2djzGruxuvynbnInlmz0zeGymw/s1o7DAi4X
 #EXTINF:-1 tvg-id="NextWork" tvg-logo="https://yt3.ggpht.com/vVRkctWN9VUk-a-Dr-ySmEtKp1Ngo87YcfpfwYL8R4U3HPYqZAu5jeQM4Eu3xYtT76ddGw-QPQ=s48-c-k-c0x00ffffff-no-rj" group-title="Computer Science",NextWork
 https://www.youtube.com/watch?v=zPjoN7LRRk8
 #EXTINF:-1 tvg-id="NHKWorldJapan" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87ab2cae62f1210235beccb4bb75e35b.webp" group-title="News",NHK World Japan
-g3nQXuPoU17/9cVbjQ0rzmJCROhWbAn9FZd4bqWTxNcnMGKQcekN8hXde4Ic6nTpQlJnPe1PSnZ7C9LuMASBY0SfC3leBZWc5q0PWrKOuz9KJhNFgTvqhFhK0D4MMsrg
+QigPNpx2QI4MXaE2DszbgOFUWbIVpI0AND10/6PKBKVosILwA3WEknKu7RNDMj9rC+mSNYXiF1ftZCki9LqkOkTR7gUkXRUczpJorDMuK+cf2fogIupp0lx8WDMKND3N
 #EXTINF:-1 tvg-id="NoorTV.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtFR4S2-PrmGs7sppYfqPgTtFf4vSN4tZrfA&s" group-title="Education",Noor TV
-3WwsCbfH45lBnDg5JTU0cfIgcc7dg+vI2zX13d8HlTD+TKjX6wPAeXP0EI0WcEk2u3AlofGwpx4NKWjx9dPEBar1AzhmNCaCCkArSaJ9hHQ=
+RUu+sbUTltXqLvAhkwKhDgbw5WncpfyazsxjvNVbnXWYkMTaRbiRrOnMPUaVUQiHkXEczaUveSymST3ckB7cv1Pc8d29vI7gsnnTsAj4tgo=
 #EXTINF:-1 tvg-id="Numberblocks" tvg-logo="https://yt3.ggpht.com/lhZzvbA1gptFuwFBPKJBsyCS7eksCbOWdX0iLNZeUygKGysu6veWmSGFVNJTGd9qfvYXoPTJoIw=s48-c-k-c0x00ffffff-no-rj" group-title="Kids",Numberblocks
 https://www.youtube.com/watch?v=jCNo7zOBFUI
 #EXTINF:-1 tvg-id="CanalOnce" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d800ee1a28bbee6769de24c5c050c40c.webp" group-title="Education",Once.3
-mbT847ZZ38p/tWdBWC1YCj8sT6od1i+pRe3q4J4SHjbUIW4pthkXHsExumzdkDUZfK/J+XlpX1Pxq+a4Ep/9hqiURRWOdu5YPEFPNTea5poFTCf19Vm1bmnmP17xP8JaejDMjFhfduD+Ml9utmTa0g==
+a/98ripn99bmiXgzssLN+ytLpjeDlWZVU1SnZ/ZAC13tzUnqokiOd4nu11VwBnlkSRuyJ9fE8MmLW12SLmUujYai4cpPzrpTY17A2PJlN/aOB8/GAxSgdbfw28QFICRqkXktTzxWPuDIhO4ElKpkAA==
 #EXTINF:-1 tvg-id="One4kids" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lNOsNxVqIoUxWkJPqoNg07ehhSYdl-4IxMRNEHKskR9Lo=s48-c-k-c0x00ffffff-no-rj" group-title="Kids",One4kids
 https://www.youtube.com/watch?v=yee9gj7t8nQ
 #EXTINF:-1 tvg-id="VisionTV.us" tvg-logo="https://i.imgur.com/XnxPIqn.png" group-title="Local",Orange County Vision TV
-JP2ug85dwnFfu37sPLbAG9dTEIZd0Q76DWtsaqs7imafYemA56f0YaQb0JxLloSJXhTYwV2dOWZ+skonzOx9FNqC+kBXq29uIQGtSOAJ1xo=
+5U3IPzH9pObAvaUiqxypvZvJILu5KTrQ9Yn/BdA5dDAYpcbtZWrgPX/j6hgwyuGOaUSvn6SnTpjiz3b56ISltxaf9HjtlONBDdViPm/cK7A=
 #EXTINF:-1 tvg-id="ParanáTurismo" tvg-logo="https://www.comunicacao.pr.gov.br/sites/default/arquivos_restritos/files/imagem/2024-12/tvparanalogo.jpg" group-title="Culture",Paraná Turismo
-2dnRVsj3sgb4SrnlhKIJoq1yHq22ANaXZPpKEtyRX7ejwUlhbNyN5TS3oVnPuMBz78iEcmoQqEIWxg+/uYF0QzC2kihdIWUnSZfWm1zy20PyGj5hHmf5QpyjJarnGa3Lr8q15cuWWudwchQHPCt1Gg==
+XD0A0IAQXti2ZO3Zv3B4na2aNog2jkhFmdL0wnQZ7IpYvXExy1D/rs8PzedQ5XbJQqcXCuBnOmggJw//3Gy1q0ZZ3S9kPwRmdF2OPArUJAmQlpJ3vtKZWd9z1LtkYr+Dm489KIZ9+t8jqiorSVoN5w==
 #EXTINF:-1 tvg-id="WKMJDT1.us" tvg-logo="https://i.imgur.com/U9HFzJk.png" group-title="Local",PBS KET Louisville (WKMJ-TV)
-XW6mC6ZfRTHpih6qVvLQq+UQU3tWbIAG0OQM/LhfV/yZTFl1+f0QVKVu44uncOM4YZDaHo2S7dtH4RT5wcUMVd+M8wLjyyVxAlKwl3mzWiWuLbrNXaa2fNgsXq1zRuVN
+kjq8lcOYIQWFcPCW6CIGjXoieV4qxsxhPwr5YSeqUInv/eb/krLxj6GZJI14DtaUfUIBJIOwlrfwyLmoZMCnvHAkTi2R/3jKen95M7iXN+v3PKyJq3moqRA416k9umsD
 #EXTINF:-1 tvg-id="PBSKidsYouTube" tvg-logo="https://i.imgur.com/U9HFzJk.png" group-title="Kids",PBS Kids YouTube
 https://www.youtube.com/watch?v=brcHz5CmxQQ
 #EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Kids",PBS Kids Eastern/Central
-9HWRvsrN1XJdk4Dod4/hWfUsNuKZ3lnPUDJHS1HBHtkBjVYBO2+KbewcyEt1X8a3FC9t6aYS/yhRpzi0NyjBbLMMTeiWExqOTgdys4jY1z0jfBF/ElE8gA3AXE7JoCPd
+0hu4F06vqxA/9x4kiSgD9K58E7ktx0PTgW4+kBiPDeNlLVWzc7/cziAxzDqPxRp8RVtNXjTuM6AENBDjVYzZ7umkQpBoS/VgspM4kILj4BwwBMeYfkKV243/dmz1jVXs
 #EXTINF:-1 tvg-id="PersianaScience.fr" tvg-logo="https://i.postimg.cc/jd3ck5dw/persiana-science512.png" group-title="Science",Persiana Science
-ijF39LNRyelXNZj0ZSz4eEpjqXhtxjbS5INF7HlcwYfbOGZdvbj2W6rzOogniCB2SmAXkThhuhKws4mUd8ppog==
+b0Ajcbv97EQNtb3RW3JeagxRbdk0amp0vmyTsUiC5LS9tvwJVzFZ471rx0G8JsjO1R/6mmlRxqENBw618uGbGw==
 #EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Computer Science",Platzi TV
-z2Uo5SQU37vpGjLJFUr90W7108r2x/9lPeqee+sqPNPF9xS+3+hkDsQJ5HYw14hVOWgpyfaotj9K5suXBQ7mqizTx8CyMHgGQYeriEp3o47yheXTeWoUYCOShFpyFlQM
+mFWHJocjwNdg+Pf2Z7hkI+WgqawbqQoH0kOfPm1arB+ai8zyMEBkxspWDQhx3THUm9mt/MjEw0oUI6ovuoWrXuN7cv5Z0sAuaFMilmwi5urF9AtnMCtbGNhQef7mo+Fh
 #EXTINF:-1 tvg-id="PlutoTVScience" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/thumbnail.jpg" group-title="Science",Pluto TV Science
-HHRsLhHX3B/QRrmq0uccN9Y2BUFyC3nUc8WH4yLl/V0fwVlkl36zE4ppMGZroj0pP5VoR29/v1eZO2DgafJnTtBj5h8keoYrDDRxwg3i5hEXE1Q0qX574X+zNXiWc0GtG/MXDVxWBJeRsRPd6gMkVMwhZ3phJ8O8emvxDoPYLnWmPxS7aHULupRkJF9y3otb7S5fEHESf6bBUMzrx8EPtmRi72B+5evOo/5j9eeT6YegIwD2IrbsqdRMHO2LGvMZRXn+gV7Ab6kG/sjYzVbKreg3+f2Upu+ws5ZwZRMDB8oCRmfbCUFqOBDKFxfAfLb8Kz/AFK+UR5qx1NXXqMa/THCj7/i9w/2GTGozYRH4nTz6nzUcPkZpn5QZmka6aOFssBIBk/5M3Tbq4h/pVT9eibuaPZ3xo/uRdfj8/qjLFQLb/we+fMM51JzZOq5+TgLigWNwQQS20BB36pFkNfo0BCBdGtdbI8zqXFb97LlDsa5bQRZzWwIPXim0BLiNYASRAUnXGlcSDjVxC0V9dKRa1orRxQyyTLjuD13QjufXmErQrQRi9AzJCV0UTGtTOemPZqc5oOi7EyZimhot5BK6CA==
+Gpeyi5i/Z0B/Bvlru73OjtFPuZvtUf/JBqw4ODrQQ4vHFobbkCdVZALBxotfl5GPIWHzRQkjhi7WwSkIfbS4itCfUkDIvfErQabhU3qWMQVFg4vTWcvxSCkwdjSzQVJL+sN8B+Z5GbHsbUo/v73giAXg426Bbuu0vHp/9xIIBWkR6oIJRslgV8CuHUF0e1pyGDKMUxo0EugW6guoRa7c2iV7BEY4iE/V6ARARGNXf/a1dcBrVpYHF3WoSjq1n7rzf5qu0bmDJLQ7CTgMF+TIyeyJP6I4oAMh3Fj1yScnfPgfRIa/wRQSIMhb4hIRIemWAcbC5UuBkA3hBZFwPXBWY/j9A/LrAs/CRAZJshJkaaVBsECy+mg2JVhhwz1cV749i0zBZUr1zm+GlKTKICy+5My7EZ2uPayI9ZYMmKbhkCCuMizDrrUPIRl78GuoYcnNRZDxZcCvn5RFLcdSqBGB4ejUwPrZbuiMaoWmjJ/o+fu11oupu9PIdjisF5SZgUvuEKQNuojiNt/iywE75NNeSCyv3Z7jkzt32KCGahMlkua+p95m3wttbPcMHRZAgbSVE7Zrwu1RzPQFVLEclbZ10A==
 #EXTINF:-1 tvg-id="PolarBearsCamSanDiegoZoo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1f6a4e9c8d1244a175d4eeccee19e6fa.webp" group-title="Animals",Polar Bears Cam - San Diego Zoo
-HN09qsXu+SGPW+TK5Dd+QKKxTecW73OGenOnFtk+GEso/p5ap5jHT7UKaKyM4au8cHSUBoDTon/1bb7CNUN0uwYaYT+Dm0sXWkGYeD/sAH7WEbn1JS7YrhIW3/jDj0D3MbZqdE/IdCm/GiQH6evYTw==
+OOEso79alj26F6NS9UOAPvuLcklGYXJwwWy+2iLqKZzoiKnLiVcMb5JlHzqPS5Why1R5pd0hd9yNFGz9wA7+7lbXxyWvagzNvh+VpTry5pQHReWTFVhlerPWd8JYjHOpEASTdS/ytd/apjjhvVsEIQ==
 #EXTINF:-1 tvg-id="PoliceTV.th" tvg-logo="https://policetv.tv/wp-content/uploads/elementor/thumbs/cropped-LOGO-POLICE-2019_512-qvss6q704vu39pig4g3aipjuvm1nbvj9ewxq7olxv4.png" group-title="Government + Law/Crime",Police TV
-uEE12WKAsLcvg+UnEEormeaqXwpovgzrmeLqQBrYFnyu8xpoKKKIJQv/We2ozzsGqUYsz4f9v3hXOtwnRnsv4YJvKJFRpCKP/JAcTJiBUII/wZyWQ4GZk2XECJQws0+n
+d8dnCEQJlyY/dRupBMoXYaBz4tTaDwDx15Tt/uCEJz/7wyO7aNDGy5+BrCtLZmUUOFE4ncpzgE5mUHLsjUjq9llLFbQ9a7P6UgcTFYGtchilGIriCK0EjXIWXORwZZxY
 #EXTINF:-1 tvg-id="RadioAlbaladTV.ps" tvg-logo="https://albaladfm.ps/wp-content/uploads/2023/06/LOGO1080.svg" group-title="Education",Radio Albalad TV
-RpcF4UVq13tq49x3serF+nqwig4sPw1U9JJWX/vg4XmjAnvGtcSZClWZpP8mP6Nc65noThpF/t3XS70VTOtB2PL3+GXnc8hfKt/VK+VcGell3lGYeal7WCABpiAgTuhMgw27Tz5yTT7FzsGPVZOe8mu00PPwzbBC+hCz09BCbd3SgTYSyIFztwmMC0YkAjla/3eCUQExu8mBU/J4qtK/Fw==
+DzreSEBzSig8eE63y4bnjJ2wn/yhKDufw1RFEAwPVPUU6s7Sx4c2Yk569IsbnZgzdzsiFY8QscGR/FiwrmP7dPWO9PpC+DXeI54dQ8OMxousoJMlOpmmoeI5V/Wnro9RTDqEdfm5SoYifB8rIh2cRne1ij+vwIi4hg+07YlaOu6b+AerO+uqF8ER3U/SDYBT03H9xCblAkCe4iubcsJ7AA==
 #EXTINF:-1 tvg-id="RealWild" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kvskxGeA_ALsJ2s6M2kwgjaDaUdAAT2VPMHlvB2w7oxf8=s48-c-k-c0x00ffffff-no-rj" group-title="Animals",Real Wild
-ujDC86UMTWPfr6Ruw+G3T1Gr/uZlBiIi+2kMeG8Mk6wD0UC1yR01UXIRmNcEPn38x8V2C9opH1klni8/tZBIlgnU4Y0pBaDfG1tc0sqRQ4TV8Zec7q4fHXT8OPNeaCHqPUzctiKYEXqwhdAtN7qqvrUc5XYgYMjVMSWi1OfShpI=
+ENSn2Upz0vsR/dtcZNO0mReuoD9675fDFNVedRhxNZPiwzBdtP+uKEYfXueqJcdIzQj7DxqyTroZws2PZhCEllhGAl9d9MUIgulBWflnNYnQecG7YLdllh/gPjBDHvZj5zbPBVa8/CEpIS4bcx8uF4OBTyvlZQntCiaKuydbsec=
 #EXTINF:-1 tvg-id="RedApple21.us" tvg-logo="https://i.imgur.com/ICcQUCH.png" group-title="Education",Red Apple 21
-nXMsYZV6XS/QUORacLzUiCC4ywBveSSDLO9ltWqClc6o5E6dQ9JHVouEHszWnMEzkgazUI/q5yjigNs05cGFXqAoOPjlBz0S/+Q6S0ix5hVZwNyI16AAgrIwINCXXTlV
+BzGYEN+Q4Tx0JlRzv6IxlujxNglNh3QDWGrEWHxAFpizeOwRECgb18gOXUUShZyPYQH1GDLPNZLjrvcHQMM8WTLx28sIiFkus6yJuBD/oIoUd/tbHZsuD9RWGmGCtunW
 #EXTINF:-1 tvg-id="RT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/26c5a30029b81339ef17a02aa420f64c.webp" group-title="News",RT
-SdAXfroxqjd377bp/Jk8NnBWar7+O7I//JnGD7Jk2t8RNhmpxupa6+ZcvxmQ+An1aG6nXmYjYXYhceD6NRew5de09B1WYF6d6Ek5ycVZeXU=
+8LiaQlRmw6s3VgjWp04z4kEPA6qB8mPneFW6h9g2vKaHClKcaDB4Gi/7RZ+2jMKJkdHf3nBqaZGnPnwwjo6Db3dQICEsDCD4EzEAnxUNbwo=
 #EXTINF:-1 tvg-id="RTDocumentary" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ab9a956d38f2361c92545120dee2a95.webp" group-title="Documentary",RT Documentary
-rtVT84l5g+xeiNHO4QzVTrBD1tw760evZlD6D4JmURWcyGHPE/BkdJRnmxT12z/mj1MO9TIfOXJnsuUfd7tqpqopmT8IvTnI5cbWi3jEWps=
+mD3uO5osPCED7BFmfAXRvdeGIHA+L0sTQAxdzBbrn+P2o5kFsJtqzfU6Br0SGoXeG4QZCpW0+k8zv+QIU71Jz7mvmoE8q76+y1cTr9VYRw0=
 #EXTINF:-1 tvg-id="SMCTVChannel24.us" tvg-logo="https://i.imgur.com/4Autljp.png" group-title="Local",Santa Maria Community TV
-2RxVFOsBePv1TuZpW+gm0/nYcdm0/lO/xV77KBQeVszNjqzksRrCeA+6l6bsQVBbDepViU5I9IjM6LaoOwVknmmHlaKL15rX9iBSv89BB58JSujsKxsrXhlruwmYB1vD2fnI88NwIQeclIkGZNnSfg==
+xG5IocuKEjeycRKnqnxZmAUC9ErndPuZc6lyOip4XlPajNIoc0SXLBxZIF7pI3waChSmJjuVMqJT3YFdWRT+9DvF0u2gzlV+KY8kg0mnrb6iiPX9kuWqto19mMuCcHGul6dcKJ+NPoKfUn+dlrMb/A==
 #EXTINF:-1 tvg-id="MythBusters" tvg-logo="https://yt3.ggpht.com/EOOS8mVZS_xneM-iNseE8Pee3yfXIvdWeoRS4aTkUmmTYxuJqiaxC3TeF0N67xQOqnNfpeaS=s48-c-k-c0x00ffffff-no-rj" group-title="Documentary",MythBusters
 https://www.youtube.com/watch?v=W35IH5sKgKs
 #EXTINF:-1 tvg-id="SiamTV" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png" group-title="Culture",SiamTV
-ftRRfZR3OQdDf0HFfOzTdP5sGJTsicwD+d5gf9x6tjB0Ub0mKmU92rmoeQLPGwbnAEnbQe1vlpsvLEye1eAUOOe0t3XzRWAao0OiU/V5drs=
+Jdha9zkqGT4toLOZeA+ts/qgbzoJvmrpmGO0/U6AFIwxkxVM+QQgiN5nqPhdj9REYN9CPasRFgUdHdHLlShJF7n4jQKGn5c2eRr7ej2G9dg=
 #EXTINF:-1 tvg-id="RailCowGirl" tvg-logo="https://yt3.ggpht.com/MIOsTOINzT2nAFxMn4_fZDbe_Up_cE2xmTC4VD_XOlIafUA9eWab-ApuilIZxhkGSGtnjKNK=s48-c-k-c0x00ffffff-no-rj" group-title="Outdoor",RailCowGirl
 https://www.youtube.com/watch?v=QawVLncvm4I
 #EXTINF:-1 tvg-id="TeleBärn" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4848302dfaddb5c0b31f92f21519d629.webp" group-title="News",TeleBärn
-8mXHYHFOy96Eg/GdzXuNsOPzBEr8xdYF3nozH/ZoAumL6PglYv6yBysGmZkdMbx8IZxueJP6/+m9W4+Be2nqTe4mg6/Xa6d343Ku4ix4LObF/lymVb7Mr/f8MMlJOnz1QH+cK3GxtT03mYB9Mmvhjm7gZOf7ykWesAcB35TGMnP4PaLxBiM3n1GNPlFIyfpU
+WduOMBYm6+Xz7uSgCFKaZLx2YzPVE+T2h6IlaqfK9Oy2k1G86iT04qCxvNJsytqO3VqWn4WNErhOkci9C0etNTNnLfImnU9bydvzX4qZS2baMLS54u1FeLe+WYSnuQygD/OSA/ZgulcTzH2GBFzdQ6FuNS/MXO7ZDvSs1luj3o0V86GEY+WUNBSDhsU+bwhy
 #EXTINF:-1 tvg-id="TelevisiónPuruwa" tvg-logo="https://image.roku.com/developer_channels/prod/386a41b84216c7010cf0b4ed536fc04f74e2f936aec3509bd1e1b6fd52628f11.png" group-title="Culture",Televisión Puruwa
-IasQpWX4C2DmUjCVSOfd5V9yVeM1F5MSjDgDZOmlVxVGp2i5Ala2rCFzJw4EIDYfY5QBAsr0mGSfwzuGB00L9pxcWZo+ub1Ph9QIye1RH7vUGU3dw1ra6is1YVFxr+ry
+d7sAzjreFtoYULZwuO+eCrWe2xZV2mK80YiTjco9c6IWvN2p3uxRfsJY9HYsGFtoaHrRjY4lhUFiZgbwrmWJIXBsgB16vvc6mSl0AWclf0l1TMgTZZ6ZkVcf9xMEWc1X
 #EXTINF:-1 tvg-id="ThaiParliamentTelevision.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TPTV_logo_2014.png/200px-TPTV_logo_2014.png" group-title="Government",Thai Parliament TV
-hz6st0p5ktc+lMEyeiNOK/fnj1YyJEVjZqbThDreP9c9Tq02F67T1O52GgQtxh6VW5kRFDgtfvWPPMWLJSRbxA==
++pxiTYoUpbmLGLoROOWXR2jGxStGX76sUl3+zx0/aNKYu8avh9ZdifQlEjWYCw+2y+1ZXqsv0YhABJfKUVvzNw==
 #EXTINF:-1 tvg-id="PenguinsSanDiegoZoo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f1f0da37f69adfd3dc39f4424b708d58.webp" group-title="Animals",Penguins - San Diego Zoo
-NgXHBq+9lyI7aL6B4faxJ/pu4P3821llWg1GLdIzCJCT8K1/Vxweu8PsRjvsIG3kFyRA9+NEBhwSvTl0xmJFZY6xQzGfN1q278XicrGB70+x6s+4Y8Xi1ZUNyeybGtwYsJtd3AqcrSs+Etu3SHOlxw==
+bYwqCPYx8EyhW5U2jixpxfO/U2tXiCh1fS4Al7M5UiLHscCZHRqzbK1xDwW8oj75pmeQjEIZ37NwM9BDVhMZEkFESz3BUulG+3jzNIRdWezM7Zh9rQe3q08VNNH1N2Yf1bdxo87wnNI98KcnsM0mLA==
 #EXTINF:-1 tvg-id="TheWigglesKidsSongsandNurseryRhymes" tvg-logo="https://yt3.ggpht.com/NYkVY0zjC2bivn1UOGmgCpsFl0y48SaMqv7qyzUaT4S67WEK-NLCA_CYSau16nfwXwiGRljT=s48-c-k-c0x00ffffff-no-rj" group-title="Kids",The Wiggles - Kids Songs and Nursery Rhymes
 https://www.youtube.com/watch?v=L0chftHWbo8
 #EXTINF:-1 tvg-id="TodoNoticias" tvg-logo="https://yt3.ggpht.com/OL0n5KS1Yw3200B8OhLyq6Qa_g-aNGhJcuhNQJ2Ym3Ykan1Bptx1_yJrClMlMedhLR_W4cvoOw=s48-c-k-c0x00ffffff-no-rj" group-title="News",Todo Noticias
 https://www.youtube.com/watch?v=cb12KmMMDJA
 #EXTINF:-1 tvg-id="CityofTracyChannel26.us" tvg-logo="https://i.imgur.com/ZhPmjkc.png" group-title="Law/Crime",Tracy Education and Governmental Access Channel (Tracy CA)
-NNKGT0rpqSKP/Ma4SiErOV5/2U2HtQUmFNLgbUBM4xDKOkxFIHwS9ozaF08FrB6NSW2jqO4ZIbQp00nzUShkDyRJCY9Zs82es8A1QaNhPuQ1tOqVil7jvCysfKU2GLcS
+B5hQznQlLJvJcZE4Y3/0Ubn6li+a0GJ8xDkg2Y7KGcydawHWcWzZdqu0++ekOFsoON6zKnVQIYE93CgDetm8RYguWKRJ6idxvfzf6JQI4GnmlMNIdoTBiTQIg/Z0qT6X
 #EXTINF:-1 tvg-id="TrueCrime" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521491288/20231121T121011_truecrimelogo.png" group-title="Law/Crime",True Crime
-YybUwsqK+XSpKHgzRt9oX+LOurdHS5U/1T246WhWUtJoHvN8OLMu1Y7MoNzllNVUhHeAo8MWkgQcaI8O/12n5g==
+DcHXIoSxdwPqxzp2VY4zk17nMv/be9fqsGR91ItvJmjCFB0PJS9sb7XrGKRGwpWW7dsqxySfqb0DzyEQiKUu0A==
 #EXTINF:-1 tvg-id="TUTV.us" tvg-logo="https://i.imgur.com/At0BPeA.png" group-title="Local",TUTV
-Fk1dqm1vb/Qd8aAG24bZ40wivNnLxWFVcDeRd1cUXm1tak5iWBrva27IrABDkczhChJ5eW8TDVy8miYgT8drIMKO1ipMlIfhkmnI1J/qMxUApSLZH+tyRKZCCVFUO2LHBY/48qyNO8O8k1NmJG/kLQ==
+ZtNiFc1w5JXXd5INUJuCSn+kA8R4HxZWx6PYBslEUQ/bAUsarGoSczaQx+1bR2UhVrxc6qdjlRTl86d5KTFO4x0WjMleQdWaEDqR3OWie5AXrjX6oIkLkloXN68UynZ1XayQms+A7DyBVPNCnOZ5vA==
 #EXTINF:-1 tvg-id="TVCultura" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac86ed7edabf2d886a3b8430b4f13c91.webp" group-title="Culture",TV Cultura
-54ZnpBT+xXIr+MEH9TVMtUunfvKVBmGiZgtOCn0Z2FDCONWypFtmO/QdZVc5psQrfBiuMorbTQenBoumIijPmm+PjItHtmM8GyPYQNjSy616kMjjk+POMz1uk5j2+vhhMjAkEwmFg/tIwNkdF2S6NrUxws1vzgf2+ygwmjhJs+k=
+9kZDnTgfYNX+i9m7vvkylWCi6phv4TKCMwrUXrgmyLJ+pVeBxSGV5EgivlXh0Ts2F5hTY/3QooyjjXYBxfFVqQC1jnDlzrJXcFFj5eZA4Frn2oVUYMo3kt7hUVqzYFWl3+eT+S4HbBxf3aJyDa+rQ5Jr4hG/9YCKvC2wflq7h6M=
 #EXTINF:-1 tvg-id="TVMuslimThailand.th" tvg-logo="https://i.imgur.com/WZidzVV.jpg" group-title="Education",TV Muslim Thailand
-73SAcUwTOFAi8X/suyvw09cuaTiWVK4OfbnI87qej1/htaZjgmzGow9AEfPRwYbQ0nxMI7mhqcMGP8J5z5hUdtblgAZzsdOjf5fGSM8U5YU=
+I/byfpUcwcDC/yI0GXQBtUXgD8X528R2H3Rnt5QrzWgPD1ynCPnCkW935LC3xPKBA5kFUWJ2EeapijaCEU3z+OI6/krZwu+kLB5jwUaQYF4=
 #EXTINF:-1 tvg-id="XHMNLTDT.mx" tvg-logo="https://i.imgur.com/9qL4LJF.png" group-title="Local",TV Nuevo León Canal 28
-v3pAaBMsFl2R9YTYwVPfs+1FNRGqt/vb0fF8WDVDSYfpwr8errXMnZGWw6Mg4+zuEQZfqhPULACbzxWI1iLJxL3l8asusllnUz4V7EdjrBk=
+wRQgavrcWvV8Hsnm6cBn1muSQJQfuilqcvvKMQFwDKEYHhycErZkNRDIfjeJw76IZItoexN67TiK7MGeqA22N+Co2MgPNRvczwhj+pYNJrY=
 #EXTINF:-1 tvg-id="TVERS.br" tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="Culture",TVE RS
-HOaoByQlMojgKGJCvoYimXBLVPut+ics3aRzP0uYTKP1phA+wEmXsuk0HEiRj2WweLJ95hZZQh58f7gvaCNqsm2PzXVdPrcFaqBujywUxDI=
+BmbHpYzF5JV3mMiyphl4sVcscfCZQCOIg/EiyWHHpDKj+lrl68ze/bLvVdVbj/NOjNWqoLvwYqzh0oOUASMLlelzGZo3JQ07XjHXojOrR30=
 #EXTINF:-1 tvg-id="TVIKIM.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL1Eh9pxEAoh2dU1-IDzFvqltqCzAWI_fcMA&s" group-title="Education",TVIKIM
-IhLs0Rs0fL7FITwUTfpBgxpwV6lxEImG/5WHQAkAqtKfCr1Cbv6riUo4HFcb3yld6vzwWa8JjGEpxonXYHhD368Pjf0xH+GZISmV6+shLak=
+c9iNmDzpXNodKKmgrtWFaMZB1uSf4MQ8UmV5KFm282f3sHwxfUoM937Zr8NYHrVLJ8XSnsBOK6f0r+m5SHjPbIvgAm3OOG4L3TiikBrZa0s=
 #EXTINF:-1 tvg-id="TVK2.kh" tvg-logo="https://i.imgur.com/L36ptO2.png" group-title="Education",TVK 2
-B8iEzzlYMonJf9zpk6yxNzvS39bmXC85WWO7MrM02kcIQn6ByxxqB5QIuCKfbtjtydYJWclTl3u9rarBO1RNsDz1G0FUSD8JVLTOE6kKFJY=
+RojvfC5IOwhq0XUqL29BJxTouW4LNKuZ6ZXwUJu2BfY/k5LlxQxg7Y63QLwBBgJpswEt43tNP7JBbhLMoE1MIpwrR1lzKEX1xnjYw/xKEBY=
 #EXTINF:-1 tvg-id="ÜlkeTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/29545cfe74b1a0e82f12b0c7f7098fbe.webp" group-title="News",Ülke TV
-LG8WPM8aj3rCdMQUQ41BNEsx4QVYMWssmy93sg60clax3oLpSV46orghb6IaFIiMlw6SZDJU8n85GW8nxUmsThoWG1Jz0WJ7yCc6fZRF+dePVoSE4ex81j6Z+F5t8Gg7
+3i7U1n8xsZ1qfLLzcRnrFVj214/yMcqAz89lvnlpzdkY+zbmMS7PLv82zmvZFakUEGbJHLRFJO6gHS3W74xk5OFP2uUa0+VV40by07dOmFWL2TtbhmVzPhphFq07PsCg
 #EXTINF:-1 tvg-id="UNWebTV.us" tvg-logo="https://webtv.un.org/themes/custom/un_media_theme/assets/un-logo-white-en.svg" group-title="Education",UN Web TV
-1XiKk1TD4aO0mOAkQqTVRyiszTKQBXPm9Ca8lS9nz/1T1uYGtq5EQvL/7jnjKp7yrKla6ll2ofFGjmkpEzn6mDQqACbLhjLDpFmlNgp1oE+k/828uuZOjQfQTm/dOC2ZbA9+Y7R+jbGuTFwlvc6nwCVpfgHfFZJ50gVk4ZtKqOHwlC2FbSQs8MPc3ggUmFmj
+Ir+mZ41VhwTDe4rW5NWn29ixIuF3GP3AtTu3BlpzsPYHPRF/TZCS0HTm1+w9S2cmxhsGw0XHpBEImQGl8ozUBiMflCC1D6E5S6bomKWCvMMpPX/nsy+qQleUPZqEqKDcjVcP24wSSG6Dk6Qw5R36iLUzxXPLcyV9efXLNw9SstvrI2+9/4or2nxWSi8Mrn0x
 #EXTINF:-1 tvg-id="USGS" tvg-logo="https://yt3.ggpht.com/lh4BY5DvPe3MHFfscj19jJIVkjwFqzQuqWKs-sP2lrkEIprqDUxTAjetUbsPHODBpQMbwLf1dw=s48-c-k-c0x00ffffff-no-rj" group-title="Outdoor + Science",USGS
 https://www.youtube.com/watch?v=fiyttmA7YkA
 #EXTINF:-1 tvg-id="VyasChannel.in" tvg-logo="https://webcast.gov.in/Image_Store/uploads/events/thumb/2f2cea9bb6441e15_nic.jpg" group-title="Education",Vyas NIC
-Hkc9RE3rjUNR90aTn3JlykJ6OUG41sfH5Up9p6MQlD3+2k5c1USEAQlO0FSP6j6XibajsiQHD6dGWMql3KWYneSE9oR5pt8CJ4T3zi6bl80=
+JMdIGTiSy/gIFbtkSI+CN0BHQtAskELmOeqq42tK+81bcWPmFzuDC0evDJhp92HWSGEBpEJl7ZO/SP5zP2IS0FDQHuHrTYyEhWLFlS/3nfw=
 #EXTINF:-1 tvg-id="WhiteChannel.th" tvg-logo="https://i.imgur.com/XY44ECQ.jpg" group-title="Education",White Channel
-/dJzYjgYl5rBOnQpo77/msCHQRckQNjTHmldwFukYdVHOPneR0tMJwX2zfuaDeU8rpagtJ949cqHyBCOKMIRPIL62ZjkrxXiog+nLBQeBrP31HMahdp4CW9h7JTtViegncs3GJLULYFExvqIno5AOhDvx9kKF4aSOrQOtlXDH8EA9iGgjneNVT/0C5N9SHPZ
+MaUpzIb63++kLH69ImE3ZulNMm+uNzk8IrmqHpZx23NNNs+MvDCX2VfXXHHbTjZvtmLK4h+czMfUXYheaARkiqMaKqlu1b9tcd7aEJc1uJU0p15fzQYBEJsw5UM73ufe1qL2VETu+fcyD3ri4m17yt1Jtchsec5HZAMrPj94Z7WjmMAfzFYQEN+pqNpkary5
 #EXTINF:-1 tvg-id="WildTimesPodcast" tvg-logo="https://yt3.ggpht.com/w0Q_CqiKzTldKSOYTUWiY5v3SyZs332GWslFLoB0ciVPpHUhpfjxZQBhOUaohI3FOFGiHE1sbCo=s48-c-k-c0x00ffffff-no-rj" group-title="Animals",Wild Times Podcast
 https://www.youtube.com/watch?v=rAy4iGr9iXk
 #EXTINF:-1 tvg-id="WildEarth.uk" tvg-logo="https://wildearth.tv/images/WE_LOGO_LIGHT.svg" group-title="Animals",WildEarth
-9HXB9R9UoKErxiT+slaW7A1jwK6JI/s2NTcZrNr+LtsBY2Cit/JrHfn5JxZxsWypyngzrhqcPvsiak9KPTJSlJG7dhhbVv/9+Eq8q5aqKvA4uHSF0J8MywNy3dY8eBkEt4emZJIe0IErjkV+Gw+ILQ==
+2eExD7MgcLDBAOiMKbV/vhGF86Znd1jAD4LaV4YUnXz48cDzk+enmKDlKZdlj7FsZ7ICuYHEuMU6A6en4TR0WfbavYIOHxt3iRSh/n4ZAk9QSI09XXQUKH5V5o0IZlKJFp/74lCXwvBpq1cffvSozA==
 #EXTINF:-1 tvg-id="WPSTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/2daea400fbf02d11b8dfc1e09b3801b8d829248081a1312e322d0deb617b901a.png" group-title="Local",WPS TV
-sFar1jiH47LLWQe3mtGrKSicxwCfzXRS52wxoxk+dQVt5Fhclu51NR+uYotSUoRo6ssICRdA8c/diXojF05mTKBeKLDX55pF6byHi8XeI7wgj1QTzAyIhGzSOmvdMHN1
+MAwVv+5mZiQd/qhXXnp+PUc/JfoxcegvJ5vKxD4H9RexS+dg7UHKOnqiu5xXlGf+Igj2y6692K1KJeLJma6/Og7jM6e3EWSZ7AB7O5BH63w/okqWUKWLA8iRnOPWj5kD
 #EXTINF:-1 tvg-id="WVCULP.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/WVCU-LP_2015.PNG" group-title="Local",WVCU Mt. Lion Radio 97.7
-thBE7yiOlRWSg+jnHseT0uPpE1QhqMOYZ0pVpTKKzUZiiZ38NRNW9LzSxZxS1RVScimmfJGxXmZ8DOpzgUa8ebx7qN6xRC3zK5G/DaKOe46NRgxHELx2w4TCBsnkl4vM
+nbhhjnmcsf6s25aWHgcnEgx3Xn5zwvL9XOrP64M+kXWfek+5dhAWA4oAbQAw0tmvzTxDY/XQM1OMe6UfYTcYfYx7hHktNt6zivdiK5lBK+cpjEiu7Mq6WEwTMag0OFTN
 #EXTINF:-1 tvg-id="YahooFinance" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="Education",Yahoo! Finance
-LVhG3MvJo5WPF0eKI425wrvFEUFV1okVoBOKJy213dTLXCGGwQ3m/MH30/MkFrbE6imHtLtH1NOUxo6nFKBuXCn6KpdPlSUkdvp5WMQBN30=
+G5Xt5OuCFTbXxJSVD2+MBMzO4Bz9hzxlusgndQdGn/viM1YMU0TUtV4TsIBR8KWwZPWrOKbbiihL6tlNApnCwcIh0QNiU1eB13vJe0c8AB4=
 #EXTINF:-1 tvg-id="Ctitv.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" group-title="News",中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
 #EXTINF:-1 tvg-id="大愛電視 Tzu Chi DaAi" tvg-logo="https://yt3.ggpht.com/NEI0ar45iUcO8ietMHDsT5Z3Jrn4q_ukWj6uUsIx9gZ_3Tl16cxIdsqcH78C8wDvpKBKo3Zc=s48-c-k-c0x00ffffff-no-rj" group-title="Culture",大愛電視 Tzu Chi DaAi
